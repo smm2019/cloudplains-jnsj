@@ -1,0 +1,30 @@
+1.第一个参数是 -i , 作用是解析出该地址下的视频信息
+
+you-get -i https://v.qq.com/x/cover/34rg8ntemeszdm4/j0613bozdsx.html
+#you-get -i 视频的地址
+
+2.第二个参数是 -o , 作用是下载该视频(注意要加保存的地址)
+
+you-get -o D:/ https://v.qq.com/x/cover/34rg8ntemeszdm4/j0613bozdsx.html
+#格式为you-get -o 要保存的地址 包含视频的网页url
+
+3.如果希望下载不同的的画质,先用-i参数得到解析出来的视频信息
+
+然后选择不同格式下载即可,具体代码如下:
+
+you-get --format == mp4hd -o D:/ http://v.youku.com/v_show/id_XMzYzMDI2MjUxMg==.html?spm=a2hww.20027244.m_250036.55!255!255A&f=51755641
+#格式:you-get --format == container path url
+
+4.第三个参数是 -u , 作用是解析视频真实的地址(url)
+
+you-get -u https://v.qq.com/x/cover/34rg8ntemeszdm4/j0613bozdsx.html
+
+5.获取视频的json格式信息
+
+you-get --json https://v.qq.com/x/cover/34rg8ntemeszdm4/j0613bozdsx.html
+
+6.乱码问题的解决方法
+
+CMD窗口下输入：chcp 65001 #UTF-8字符集代码，默认GBK为936
+
+CMD窗口上方标题栏，属性–字体中，修改为TrueType ‘Lucida Console’
