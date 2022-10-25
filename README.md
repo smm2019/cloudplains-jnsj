@@ -1,12 +1,12 @@
 ﻿# 本库为自用知识汇总
 
-#hellow-pages 为python 自学文件，部分源为github 开源采集，如有侵权请联系删除！
+# hellow-pages 为python 自学文件，部分源为github 开源采集，如有侵权请联系删除！
 
-#tvbox-page     为自定义的一些tvbox文件；
+# tvbox-page     为自定义的一些tvbox文件；
 
 # GitHub 中文化插件 https://greasyfork.org/zh-CN/scripts/435208
 
-#Github RAW 加速服务（样式，自己替换地址）
+# Github RAW 加速服务（样式，自己替换地址）
 
 香港 https://raw.iqiq.io/liu673cn/box/main/m.json
 
