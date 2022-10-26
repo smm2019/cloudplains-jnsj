@@ -1,6 +1,6 @@
 ﻿# 自用知识汇总
 
-# hellow-pages 为python 自学文件，部分源为github 开源采集，如有侵权请联系删除！
+# hellow-pages   为python 自学文件，部分源为github 开源采集，如有侵权请联系删除！
 
 # tvbox-page     为自定义的一些tvbox文件；
 
@@ -77,12 +77,6 @@ app/src/main/res/values-zh/strings.xml
        if (!Hawk.contains(HawkConfig.SEARCH_VIEW)) {            Hawk.put(HawkConfig.SEARCH_VIEW, 2);        }
        
        
-# EGP源
-
-http://epg.51zmt.top:8000/e.xml
-
-https://epg.112114.xyz/pp.xml
-
 
 # 以上为互联网流传资源，不保证内容的真实性和可靠性。
 # 本页面只是收集，供学习测试用，有需要自取。
