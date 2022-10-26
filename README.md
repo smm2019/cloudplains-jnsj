@@ -1,12 +1,12 @@
-﻿# 本库为自用知识汇总
+﻿# 自用知识汇总
 
-#hellow-pages 为python 自学文件，部分源为github 开源采集，如有侵权请联系删除！
+# hellow-pages 为python 自学文件，部分源为github 开源采集，如有侵权请联系删除！
 
-#tvbox-page     为自定义的一些tvbox文件；
+# tvbox-page     为自定义的一些tvbox文件；
 
 # GitHub 中文化插件 https://greasyfork.org/zh-CN/scripts/435208
 
-#Github RAW 加速服务（样式，自己替换地址）
+# Github RAW 加速服务（样式，自己替换地址）
 
 香港 https://raw.iqiq.io/liu673cn/box/main/m.json
 
@@ -30,7 +30,7 @@ https://gcore.jsdelivr.net/gh/liu673cn/box@main/m.json
 
 https://raw.githubusercontents.com/liu673cn/box/main/m.json
 
-#Github 静态加速（样式，自己替换地址）
+# Github 静态加速（样式，自己替换地址）
 
 https://cdn.staticaly.com/gh/liu673cn/box/main/m.json
 
@@ -39,7 +39,7 @@ https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
 https://purge.jsdelivr.net/gh/
 
 
-#修改tvbox源代码
+# 修改tvbox源代码
 
 1、修改软件名称地址
 app/src/main/res/values/strings.xml
@@ -65,7 +65,7 @@ drawable-xxxhdpi/app_icon.png为图标4，把原来的删掉，自己上传一�
 
 俊老仓库打开下面，第114行app/src/main/java/com/github/tvbox/osc/api/ApiConfig.java
 
-takagen99大佬仓库
+takagen99仓库
 
 app/src/main/res/values-zh/strings.xml
 
@@ -77,13 +77,14 @@ app/src/main/res/values-zh/strings.xml
        if (!Hawk.contains(HawkConfig.SEARCH_VIEW)) {            Hawk.put(HawkConfig.SEARCH_VIEW, 2);        }
        
        
-#、EGP源
+# EGP源
 
 http://epg.51zmt.top:8000/e.xml
 
 https://epg.112114.xyz/pp.xml
 
 
-#以上为互联网流传资源，不保证内容的真实性和可靠性。本页面只是收集，供学习测试用，有需要自取。
+# 以上为互联网流传资源，不保证内容的真实性和可靠性。
+# 本页面只是收集，供学习测试用，有需要自取。
 
 
