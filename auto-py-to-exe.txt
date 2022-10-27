@@ -1,2 +1,2 @@
-1.安装：pip install auto-py-to-exe
-2.运行：auto-py-to-exe包了。
+﻿1.安装：pip install auto-py-to-exe
+2.运行：auto-py-to-exe
