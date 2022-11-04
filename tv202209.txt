@@ -1,4 +1,4 @@
-💞综合频道,#genre# 
+﻿💞综合频道,#genre# 
 
 
 CCTV16,http://42.84.216.61:777/hls/16/index.m3u8
@@ -79,6 +79,38 @@ CTB,http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 爱奇艺-真人秀,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_75_720P_t10/c52_lb_75_720P_t10.m3u8?key
 爱奇艺-小说改编,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_174_600_t10/c54_lb_174_600_t10.m3u8?key
 
+💞直播电影,#genre# 
+白日焰火,https://hxf102.njc.svp.tencent-cloud.com/0bc3raaagaaakqapmmbsmzrvbcgdaoeaaaya.f10002.mp4?
+变脸,https://hxf105.njc.svp.tencent-cloud.com/0bf2zuaakaaafmaeohxiqzqfbtodaxgqabia.f10002.mp4?
+此房是我造,https://hxf102.njc.svp.tencent-cloud.com/0bf2k4ae2aaa3aap4ke3krqfav6djvlqatia.f10002.mp4?
+喋血街头,https://hxf928.njc.svp.tencent-cloud.com/0bf2qyabyaaabuahjpz6ujqfbbwddsdaahaa.f10003.mp4?
+港囧,https://hxf105.njc.svp.tencent-cloud.com/0bf2yiaveaabw4antavhy5pvdqwdklbacuqa.f10002.mp4?
+韩国小姐姐,https://hxf102.njc.svp.tencent-cloud.com/0b2ek4abaaaaxaadifjvhjrvav6dcblqaeaa.f10002.mp4?
+和平饭店,https://hxf928.njc.svp.tencent-cloud.com/0b78fqabkaaadiahv7jbvbqvalgdcuwaafia.f10003.mp4?
+黑社会2以和为贵,https://2022919.njc.svp.tencent-cloud.com/0b7844aaeaaaryamffd5cvqfbz6daltqaaqa.f10002.mp4?
+淮海战役,https://hxf105.njc.svp.tencent-cloud.com/0b78yiaaaaaayeaktkiqljqfbqwdadbaaaaa.f10002.mp4
+警戒结束,https://hxf925.njc.svp.tencent-cloud.com/0bc3tmabmaaaqmacfgytpvrvbg6dc2nqafqa.f10002.mp4?
+囧妈,https://hxf105.njc.svp.tencent-cloud.com/0b2ediaacaaayqapzeffyzrfagwdaenaaaia.f10002.mp4
+狂暴巨兽,https://hxf925.njc.svp.tencent-cloud.com/0bc3fuaaaaaau4alwbaqwbrvalodaawqaaaa.f10002.mp4?
+魔女完整版,https://hxf105.njc.svp.tencent-cloud.com/0bf2nuab2aaajiapirxbcfpva3oddvwqahia.f10002.mp4?
+奇幻精灵事件簿,https://hxf930.njc.svp.tencent-cloud.com/0bc3cmadqaaa5maacyzqsbrvae6dhajqaoaa.f10002.mp4?
+青蛇,https://hxf922.njc.svp.tencent-cloud.com/0bf2zuaa2aaamuaiezapjrqfbtodbxgqadia.f10002.mp4?
+全球风暴完整版,https://2022919.njc.svp.tencent-cloud.com/0bf2z4abgaaa5uafx3ln5zqfbt6dcphqaeya.f10002.mp4?
+人在囧途,https://hxf105.njc.svp.tencent-cloud.com/0bf2riaksaaadeajelvfhzpvbcwdvgfabkia.f10002.mp4?
+神奇女侠,https://hxf925.njc.svp.tencent-cloud.com/0bc3muaamaaaruagqvh5nnrfazodazsqabqa.f10002.mp4?
+泰囧,https://hxf105.njc.svp.tencent-cloud.com/0bf2u4abqaaaaaaf5svfr5pvbj6ddctqagaa.f10002.mp4?
+未来水世界,https://hxf930.njc.svp.tencent-cloud.com/0bc3vqaaiaaapuaofprphjrvblgdaswaabaa.f10002.mp4?
+无人区未删减版,https://hxf102.njc.svp.tencent-cloud.com/0bf2biaacaaasqadu257bbpfacwdaefaaaia.f10002.mp4?
+武林圣火令,https://hxf928.njc.svp.tencent-cloud.com/0bc34aabkaaau4akajeh7bqvbygdcxqaafia.f10003.mp4?
+侠盗高飞,https://hxf928.njc.svp.tencent-cloud.com/0bf2hmagyaaayeabytjb3fqvao6dnq5qa3aa.f10003.mp4?
+侠盗王子罗宾汉,https://hxf922.njc.svp.tencent-cloud.com/0bc33eaa6aaan4afdtikmbrvbwodb7mqadya.f10002.mp4?
+鹰王1977,https://hxf102.njc.svp.tencent-cloud.com/0b2e6aabiaaacmabv4rjufrvb4gdctyaafaa.f10002.mp4?
+珍珠港,https://hxf930.njc.svp.tencent-cloud.com/0b2eeuabaaaaeeaayyjvhjrvajodcasqaeaa.f10002.mp4?
+蜘蛛侠2,https://hxf930.njc.svp.tencent-cloud.com/0bc32uacgaaaqmadmjzlrjrvbvodepkqaiya.f10002.mp4?
+致命黑兰,https://hxf922.njc.svp.tencent-cloud.com/0bc37qabcaaaeiae7rinmnrvb7gdch6aaeia.f10002.mp4?
+复仇者联盟4终局之战,https://50069.njc.svp.tencent-cloud.com//0b78eaaamaaasyabgn3m7jqfaigdayqaabqa.f10002.mp4?
+雷神4爱与雷霆2022,https://50069.njc.svp.tencent-cloud.com//0b2ekmaauaaajyab536whnrfau6dbjjqacqa.f10002.mp4?
+新片沙漠伏击,https://hxf105.njc.svp.tencent-cloud.com/0bc3faacaaaa7eam4ij265rvakgdeauaaiaa.f10002.mp4?
 
 💞测试,#genre# 
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8

@@ -4,7 +4,7 @@
    
 "sites": [
 
-{"key": "T4_douban","name":"🍎影视推荐(首页)","type": 4,"api": "https://cloudplains.github.io/jnsj/tvbox-page/vod","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "T4_douban","name":"🍎影视推荐(首页)","type": 4,"api": "http://top.fuqizhishi.com/vod","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"csp_CZSPP","name":"🏭厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_酷云七七","name":"🍎酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎小 苹 果〔SP〕","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
@@ -36,7 +36,7 @@
 {"key":"mtv_pc_小纸条源","name":"🍎小纸条源","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"8f0b3f0dc1834f309f077ea5549e99a8"},
 //
 
-{"key":"csp_alist","name":"🗂Alist合集","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://cloudplains.github.io/jnsj/tvbox-page/Alist.json","jar":"https://cloudplains.github.io/jnsj/tvbox-page/22.jar"},
+{"key":"csp_alist","name":"🗂Alist合集","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://cloudplains.github.io/jnsj/tvbox-page/Alist.json"},
 //
 {"key":"mtv_pc_易搜资源","name":"搜索🍎易搜资源","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"8f0b3f0dc1834f309f077ea5549e99a8"},
 {"key":"mtv_pc_找资源搜","name":"搜索🍎找资源搜","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"8f0b3f0dc1834f309f077ea5549e99a8"},
