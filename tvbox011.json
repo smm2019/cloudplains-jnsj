@@ -23,7 +23,6 @@
 {"key":"csp_DiDuan","name":"📺低端影视〔SP〕","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Bttoo","name":"✌两个BT〔SP〕","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete" ,"name":"🐼Auete〔SP〕","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_AppTT","name":"👶图图影视〔SP〕","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"293视频","name":"🍎293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Lezhu_spider","name": "🐷乐猪影视〔SP〕","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
 {"key":"优众影视","name":"🚁优众影视〔SP〕","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
@@ -38,10 +37,6 @@
 
 {"key":"csp_alist","name":"🗂Alist合集","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://cloudplains.github.io/jnsj/tvbox-page/Alist.json"},
 //
-{"key":"mtv_pc_易搜资源","name":"搜索🍎易搜资源","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"8f0b3f0dc1834f309f077ea5549e99a8"},
-{"key":"mtv_pc_找资源搜","name":"搜索🍎找资源搜","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"8f0b3f0dc1834f309f077ea5549e99a8"},
-{"key":"mtv_pc_阿里盘搜","name":"搜索🍎阿里盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"8f0b3f0dc1834f309f077ea5549e99a8"},
-{"key":"push_agent"     ,"name":"搜索🍎推送资源","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"8f0b3f0dc1834f309f077ea5549e99a8"},
 
 {"key" : "py_bilimd", "name" : "🅱哔哩影视","type" : 3,"api" : "py_bilimd", "searchable" : 1,"quickSearch" : 1,"filterable" : 1, "ext" : "https://cloudplains.github.io/jnsj/tvbox-page/py_bilimd.py"},
 {"key": "Bili","name": "🅱️哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cloudplains.github.io/jnsj/tvbox-page/哔哩.json"},
@@ -160,13 +155,8 @@
             "quickSearch" : 0,
             "filterable" : 1,
             "ext" : "https://cloudplains.github.io/jnsj/tvbox-page/py_cctvjs.py"
-        },
-{"key":"AliPS","name":"😻盘搜〔仅搜索〕","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "7969124e7a4e4ccfb994db1a0e580be4"},
-{"key":"FindZY","name":"🦊找资源〔仅搜索〕","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "7969124e7a4e4ccfb994db1a0e580be4"},
-{"key":"csp_Yiso","name":"🆎易搜〔仅搜索〕","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"7969124e7a4e4ccfb994db1a0e580be4"},
-{"key": "push_agent","name":"🍭推送〔阿里推送/磁力推送〕","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "7969124e7a4e4ccfb994db1a0e580be4"},
-{"key":"csp_xpath_cls","name": "🍭磁力搜索〔XB〕","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://cloudplains.github.io/jnsj/tvbox-page/磁搜.json"},
-{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0}
+        }
+
 
 
 
@@ -230,7 +220,7 @@
 
 //jar+壁纸
 
-"spider":"https://cloudplains.github.io/jnsj/tvbox-page/0928.jar","wallpaper":"https://cloudplains.github.io/jnsj/tvbox-page/w14.png",
+"spider":"https://cloudplains.github.io/jnsj/tvbox-page/1020.jar","wallpaper":"https://cloudplains.github.io/jnsj/tvbox-page/w14.png",
 
 //电视直播
 
