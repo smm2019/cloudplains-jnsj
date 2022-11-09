@@ -12,6 +12,7 @@ TV BRICS,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 韩国·MBC综合,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 丝绸之路,http://stream2.xiancity.cn/xatv5/sd/live.m3u8
 李子柒4K,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
+Onlymusic,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/only-music/master.m3u8
 
 💞电影频道,#genre# 
 1905电影,http://txtest-xp2p.p2p.huya.com/huyalive/1199513205060-1199513205060-5228390287876816896-2399026533576-10057-A-0-1.xs
