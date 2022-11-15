@@ -272,7 +272,7 @@
 //电视直播
 
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9jbG91ZHBsYWlucy5naXRodWIuaW8vam5zai90djIwMjIwOS50eHQ="
+"proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvMjk5MDIvMEVSY3pJMGJfekIudHh0P3NpZ249RHMyWW43SjY4eUVpN2FaS0pKcHUtN01hck1xZUlCLXlKbEotZGRacDJBVSUzRCUzQTA="
 ]}]}],
 
 //解码模式
