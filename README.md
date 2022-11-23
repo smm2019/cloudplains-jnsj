@@ -9,8 +9,9 @@
 
 ## 📧 播放器接口（安装好软件后，在配置中设置接口，再返回软件主界面）
 
-- https://raw.iqiq.io/cloudplains.cn/jnsj/main/out/tvbox.txt
-- https://ghproxy.com/https://raw.githubusercontent.com/cloudplains.cn/jnsj/main/out/tvbox.txt
+- https://raw.iqiq.io/cloudplains/jnsj/main/out/tvbox.txt
+- https://ghproxy.com/https://raw.githubusercontent.com/cloudplains/jnsj/main/out/tvbox.txt
+- https://cloudplains.github.io/jnsj/out/tvbox.txt
 
 # 自用知识汇总
 
