@@ -1,4 +1,18 @@
-﻿# 自用知识汇总
+﻿# ⏰ 自动获取合并Pluto/TvBox等数据源接口配置文件
+
+- 用 Python 实现自动合并 tvbox pluto 等配置文件数据源接口。TVBox、Pluto Player、猫影视TV等影视播放软件通用接口都可使用。Pluto兼容性最强。下载TvBox或者Pluto手机或电视盒子播放软件后，使用下面的网址作为配置文件。就能聚合几大视频平台和很多小的电影网站视频等。
+
+## ⚠️ 注意
+
+- 欢迎免费使用本订阅接口来自网络，仅作学习使用。
+- 使用页面所提供的任意资源时，请务必遵守当地法律。
+
+## 📧 播放器接口（安装好软件后，在配置中设置接口，再返回软件主界面）
+
+- https://raw.iqiq.io/cloudplains.cn/jnsj/main/out/tvbox.txt
+- https://ghproxy.com/https://raw.githubusercontent.com/cloudplains.cn/jnsj/main/out/tvbox.txt
+
+# 自用知识汇总
 
 # hellow-pages   为python 自学文件，部分源为github 开源采集，如有侵权请联系删除！
 
@@ -63,22 +77,8 @@ drawable-xxxhdpi/app_icon.png为图标4，把原来的删掉，自己上传一�
 
 4、修改内置源地址
 
-俊老仓库打开下面，第114行app/src/main/java/com/github/tvbox/osc/api/ApiConfig.java
+第114行app/src/main/java/com/github/tvbox/osc/api/ApiConfig.java
 
-takagen99仓库
-
-app/src/main/res/values-zh/strings.xml
-
-5、修改默认缩略图、硬解、dns地址：app/src/main/java/com/github/tvbox/osc/base/App.java
-添加以下代码
-//自定义默认配置，硬解，安全dns，缩略图
-       if (!Hawk.contains(HawkConfig.IJK_CODEC)) {            Hawk.put(HawkConfig.IJK_CODEC, "硬解码");        } 
-       if (!Hawk.contains(HawkConfig.DOH_URL)) {            Hawk.put(HawkConfig.DOH_URL, 2);        }
-       if (!Hawk.contains(HawkConfig.SEARCH_VIEW)) {            Hawk.put(HawkConfig.SEARCH_VIEW, 2);        }
        
-       
-
-# 以上为互联网流传资源，不保证内容的真实性和可靠性。
-# 本页面只是收集，供学习测试用，有需要自取。
 
 
