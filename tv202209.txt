@@ -1,11 +1,9 @@
 ﻿💞综合频道,#genre# 
 
-随机看球赛,http://mmitv.top/test/yyzb.php?id=top
-1905,http://mmitv.top/other/1905.php?id=1905
-CCTV6,http://mmitv.top/other/1905.php?id=cctv6
+
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-东莞二套,http://wtv.weetai.cn/iptv/2022/tyzb32.php?id=5
 东莞一套,http://wtv.weetai.cn/iptv/2022/tyzb32.php?id=4
+东莞二套,http://wtv.weetai.cn/iptv/2022/tyzb32.php?id=5
 CCTV16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -19,12 +17,10 @@ TV BRICS,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 科学探索,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c51_lb_108_720P_t10/c51_lb_108_720P_t10.m3u8?key
 财经频道,https://xinl-hls-live.maxtv.cn/live/zb/index.m3u8
 李子柒4K,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
-豆瓣电影,http://epg.112114.xyz/douyu/8770422
-东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-东森洋片,http://120.84.96.33:808/hls/33/index.m3u8
+
 俄罗斯GITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-凤凰电视,http://120.84.96.31:808/hls/29/index.m3u8
+
 
 J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 
@@ -50,16 +46,17 @@ NBS Korea Agricultural Br,https://media.joycorp.co.kr:4443/live/live_720p/playli
 
 
 💞电影频道,#genre# 
+1905电影,http://mmitv.top/other/1905.php?id=1905
+CCTV6,http://mmitv.top/other/1905.php?id=cctv6
 1905电影,http://txtest-xp2p.p2p.huya.com/huyalive/1199513205060-1199513205060-5228390287876816896-2399026533576-10057-A-0-1.xs
 CATCHPLAY电影,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
 黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225769/index.m3u8
-欧美影院,http://cache.ott.fifalive.itv.cmvideo.cn:80/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=no
-亚洲影院,http://cache.ott.fifalive.itv.cmvideo.cn:80/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=no
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 海外电影,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
 Clarity,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-
-
+东森电影,http://120.84.96.33:808/hls/32/index.m3u8
+豆瓣电影,http://epg.112114.xyz/douyu/8770422
+东森洋片,http://120.84.96.33:808/hls/33/index.m3u8
 
 💞港澳频道,#genre# 
 凤凰卫视,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
