@@ -46,8 +46,6 @@ NBS Korea Agricultural Br,https://media.joycorp.co.kr:4443/live/live_720p/playli
 
 
 💞电影频道,#genre# 
-1905电影,http://mmitv.top/other/1905.php?id=1905
-CCTV6,http://mmitv.top/other/1905.php?id=cctv6
 1905电影,http://txtest-xp2p.p2p.huya.com/huyalive/1199513205060-1199513205060-5228390287876816896-2399026533576-10057-A-0-1.xs
 CATCHPLAY电影,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
 黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225769/index.m3u8
