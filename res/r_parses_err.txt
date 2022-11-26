@@ -248,3 +248,5 @@
 [2022-11-25 22:12:22] 0:{"name":"Webè§£æ��","type":0,"url":"https://chaxun.truechat365.com/?url=","ext":{"flag":["youku","ä¼˜é…·","mgtv","èŠ’æ�œ","qq","è…¾è®¯","qiyi","çˆ±å¥‡è‰º","iqiyi","å¥‡è‰º"]}},
 [2022-11-25 22:13:02] 0:{"name":"365","url":"https://chaxun.Truechat365.com/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
 [2022-11-26 02:03:33] 0:{"name":"星空","type":1,"url":"http://60jx.com/?url="},
+[2022-11-26 20:24:28] 0:{"name":"无名","type":1,"url":"https://www.administratorw.com/video.php?url="},
+[2022-11-26 20:24:28] 0:{"name":"无名小站","type":1,"url":"https://www.administratorw.com/admin.php?url="},
