@@ -251,3 +251,4 @@
 [2022-11-26 20:24:28] 0:{"name":"无名","type":1,"url":"https://www.administratorw.com/video.php?url="},
 [2022-11-26 20:24:28] 0:{"name":"无名小站","type":1,"url":"https://www.administratorw.com/admin.php?url="},
 [2022-11-27 06:14:56] 0:{"name":"ç¥�2","type":0,"url":"https://h5.freejson.xyz/player/?url=","ext":{"flag":["qq","è…¾è®¯","qiyi","çˆ±å¥‡è‰º","å¥‡è‰º","youku","ä¼˜é…·","mgtv","èŠ’æ�œ","letv","ä¹�è§†","pptv","PPTV","sohu","bilibili","å“”å“©å“”å“©","å“”å“©"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+[2022-11-27 14:17:51] 0:{"name":"解101","type":1,"url":"https://player.maqq.cn/?url="},
