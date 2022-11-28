@@ -254,3 +254,4 @@
 [2022-11-27 14:17:51] 0:{"name":"解101","type":1,"url":"https://player.maqq.cn/?url="},
 [2022-11-27 16:17:39] 0:{"name":"江湖解析","type":1,"url":"http://jx.vipmv.co/?url="},
 [2022-11-27 18:15:14] 0:{"name":"Json9","type":1,"url":"http://jx.vipmv.co/json.php?token=123457&url=","ext":{"flag":["qq","腾讯","letv","乐视","mgtv","芒果","youku","优酷","qiyi","iqiyi","爱奇艺","奇艺"]}},
+[2022-11-28 10:56:27] 0:{"name":"全民","url":"https://jx.blbo.cc:4433/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},

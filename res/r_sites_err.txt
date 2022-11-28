@@ -887,3 +887,4 @@
 [2022-11-23 22:16:12] 0:{"key":"csp_xpath_dm84","name":"动漫巴士(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/dm84.json"},
 [2022-11-24 04:21:09] 404:{"key":"csp_xp_naifei","name":"💢奈飞中文","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/naifei.json"},
 [2022-11-28 00:21:20] 404:{"key":"51看剧","name":"51看剧(优)","type":1,"api":"http://www.51kanju.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
+[2022-11-28 10:58:45] 0:{"key":"诺讯资源","name":"诺讯资源(官)","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","playUrl":"https://www.nxflv.com/?url=","searchable":1,"quickSearch":1},
