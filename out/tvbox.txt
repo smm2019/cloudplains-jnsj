@@ -1,5 +1,5 @@
 {
-//Update:2022-12-01 18:32:05.924125
+//Update:2022-12-01 20:41:41.853168
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -241,7 +241,6 @@
 {"key":"淘片资源","name":"淘片资源(优)","type":1,"api":"https://taopianapi.com/home/cjapi/as/mc10/vod/json","searchable":1,"quickSearch":1},
 {"key":"奈菲迷","name":"奈菲迷(优)","type":1,"api":"https://app.netflixmi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"ASMR","name":"ASMR(优)","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"考拉TV","name":"考拉TV(优)","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","playUrl":"https://ikaola.tv/vwnet/dplayer/?url=","searchable":1,"quickSearch":1},
 {"key":"映迷","name":"映迷(优)","type":1,"api":"https://www.inmi.app/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"4K狗","name":"4K狗(聚)","type":1,"api":"http://4kdog.tk/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"速影","name":"速影(聚)","type":1,"api":"https://速影128.xyz/inc/apijson.php","searchable":0,"quickSearch":0},
