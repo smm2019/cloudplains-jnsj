@@ -264,3 +264,4 @@
 [2022-12-01 00:19:42] 404:{"name":"插萝莉","type":1,"url":"http://chaloli.cn/home/api?type=ys&uid=1&key=dklsuzIKNPRVW14568&url="},
 [2022-12-01 00:20:30] 404:{"name":"云you","type":1,"url":"http://chaloli.cn/home/api?type=ys&uid=1942949&key=bfijlnovBCEGHJTV09&url="},
 [2022-12-02 09:04:47] 0:{"name":"äº‘youè§£æ��2","type":1,"url":"https://maoyingshi.cc/api.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14(dart:io)"}}},
+[2022-12-02 10:46:18] 0:{"name":"易看解析","type":1,"url":"https://analysis.yikan.one/analysis/player/?url="},
