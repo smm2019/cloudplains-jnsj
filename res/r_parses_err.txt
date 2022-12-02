@@ -265,3 +265,7 @@
 [2022-12-01 00:20:30] 404:{"name":"云you","type":1,"url":"http://chaloli.cn/home/api?type=ys&uid=1942949&key=bfijlnovBCEGHJTV09&url="},
 [2022-12-02 09:04:47] 0:{"name":"äº‘youè§£æ��2","type":1,"url":"https://maoyingshi.cc/api.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14(dart:io)"}}},
 [2022-12-02 10:46:18] 0:{"name":"易看解析","type":1,"url":"https://analysis.yikan.one/analysis/player/?url="},
+[2022-12-02 16:16:07] 0:{"name":"H8","type":0,"url":"https://www.h8jx.com/jiexi.php?url="},
+[2022-12-02 16:16:14] 0:{"name":"盘古","url":"https://www.pangujiexi.cc/jiexi.php?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
+[2022-12-02 16:16:23] 404:{"name":"盘古无广告","type":1,"url":"http://www.pangujiexi.cc/jiexi.php?url="},
+[2022-12-02 16:17:29] 0:{"name":"MUTV","type":1,"url":"https://jiexi.janan.net/jiexi/?url="},
