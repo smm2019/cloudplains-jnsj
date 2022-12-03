@@ -1006,3 +1006,4 @@
 [2022-12-03 09:15:19] 0:{"key":"csp_xBPQ_F7好看剧","name":"💈‍F7好看剧(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/F7好看剧（XBPQ）.json"},
 [2022-12-03 09:18:51] 0:{"key":"csp_xBPQ_在线之家","name":"🖨在线之家(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/在线之家（XBPQ）.json"},
 [2022-12-03 09:19:52] 0:{"key":"csp_xBPQ_Fositv","name":"🏝Fositv(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/Fositv（XBPQ）.json"},
+[2022-12-03 10:51:48] 0:{"key":"py_kuaikan","name":"py_kuaikan(Pyramid)","type":3,"api":"py_kuaikan","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://drpy.owen10086.repl.co/txt/py/py_kuaikan.py"},
