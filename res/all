@@ -1,5 +1,5 @@
 "sites":[
-//Update:2022-12-03 20:40:57.001609
+//Update:2022-12-03 22:45:31.247941
 
 {"key":"Juhuang","name":"剧荒TV","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json"},
@@ -727,16 +727,6 @@
 {"key":"drpy_js_学生球赛录像","name":"🎥学生球赛录像","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/学生球赛录像[js1].js"},
 {"key":"drpy_js_爱车MV","name":"🎥爱车MV","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/爱车MV.js"},
 {"key":"drpy_js_酷奇MV","name":"🎥酷奇MV","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/酷奇MV.js"},
-{"key":"csp_xBPQ_乐猪TV","name":"🐷乐猪TV(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/乐猪TV（XBPQ）.json"},
-{"key":"csp_xBPQ_双十电影","name":"🏛双十电影(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/双十电影（XBPQ）.json"},
-{"key":"csp_xBPQ_APP影视","name":"👒APP影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/APP影视（XBPQ）.json"},
-{"key":"csp_xBPQ_HOHO","name":"📹HOHO(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/HOHO（XBPQ）.json"},
-{"key":"csp_xBPQ_饭团TV","name":"🍚饭团TV(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/饭团TV（XBPQ）.json"},
-{"key":"csp_xBPQ_好看影视","name":"👸好看影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/好看影视（XBPQ）.json"},
-{"key":"csp_XYQBiu_追剧达人","name":"🚔追剧达人(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XYQ/追剧达人（XYQ）.json"},
-{"key":"csp_XYQBiu_万能影院","name":"万能影院(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/万能影院.json"},
-{"key":"csp_XYQBiu_虎牙直播","name":"虎牙直播(XYQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/虎牙代理直链.json"},
-{"key":"csp_XYQBiu_好恐怖磁力","name":"好恐怖磁力(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/好恐怖磁力.json"},
 {"key":"爱奇艺会员〔官源〕","name":"🐝爱奇艺〔官源〕","type":1,"api":"https://ikaola.tv/api.php/provide/vod/from/qiyi/?ac=list"},
 {"key":"优酷视频会员〔官源〕","name":"🐝优酷〔官源〕","type":1,"api":"https://ikaola.tv/api.php/provide/vod/from/youku/?ac=list"},
 {"key":"芒果TV会员〔官源〕","name":"🐝芒果〔官源〕","type":1,"api":"https://ikaola.tv/api.php/provide/vod/from/mgtv/?ac=list"},
