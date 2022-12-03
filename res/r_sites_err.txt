@@ -1024,3 +1024,4 @@
 [2022-12-03 22:33:34] 0:{"key":"csp_XYQBiu_万能影院","name":"万能影院(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/万能影院.json"},
 [2022-12-03 22:34:34] 0:{"key":"csp_XYQBiu_虎牙直播","name":"虎牙直播(XYQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/虎牙代理直链.json"},
 [2022-12-03 22:35:35] 0:{"key":"csp_XYQBiu_好恐怖磁力","name":"好恐怖磁力(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/好恐怖磁力.json"},
+[2022-12-04 00:33:23] 0:{"key":"py_czspp","name":"py_czspp(Pyramid)","type":3,"api":"py_czspp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://drpy.owen10086.repl.co/txt/py/py_czspp.py"},
