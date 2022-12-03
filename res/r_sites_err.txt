@@ -1013,3 +1013,4 @@
 [2022-12-03 12:32:11] 0:{"key":"csp_xBPQ_小小影视","name":"🤡小小影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/小小影视（XBPQ）.json"},
 [2022-12-03 12:33:43] 0:{"key":"csp_xBPQ_HDIK影视","name":"🎦HDIK影视(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/HDIK影视（XBPQ）.json"},
 [2022-12-03 12:34:43] 0:{"key":"csp_xBPQ_在线电影8","name":"🧵在线电影8(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2863/XBPQ/在线电影8（XBPQ）.json"},
+[2022-12-03 20:37:35] 0:{"key":"py_cctv","name":"py_cctv(Pyramid)","type":3,"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://drpy.owen10086.repl.co/txt/py/py_cctv.py"},

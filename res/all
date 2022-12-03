@@ -1,5 +1,5 @@
 "sites":[
-//Update:2022-12-03 18:32:27.493200
+//Update:2022-12-03 20:40:57.001609
 
 {"key":"Juhuang","name":"剧荒TV","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json"},
@@ -801,7 +801,6 @@
 {"key":"py_douyu","name":"py_douyu(Pyramid)","type":3,"api":"py_douyu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://drpy.owen10086.repl.co/txt/py/py_douyu.py"},
 {"key":"py_czspp","name":"py_czspp(Pyramid)","type":3,"api":"py_czspp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://drpy.owen10086.repl.co/txt/py/py_czspp.py"},
 {"key":"py_cokemv","name":"py_cokemv(Pyramid)","type":3,"api":"py_cokemv","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://drpy.owen10086.repl.co/txt/py/py_cokemv.py"},
-{"key":"py_cctv","name":"py_cctv(Pyramid)","type":3,"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://drpy.owen10086.repl.co/txt/py/py_cctv.py"},
 {"key":"py_bilimd","name":"py_bilimd(Pyramid)","type":3,"api":"py_bilimd","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://drpy.owen10086.repl.co/txt/py/py_bilimd.py"},
 {"key":"py_alist","name":"py_alist(Pyramid)","type":3,"api":"py_alist","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://drpy.owen10086.repl.co/txt/py/py_alist.py"},
 {"key":"csp_XYQBiu_短视频","name":"分享短视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/分享短视频.json"},
