@@ -1027,3 +1027,4 @@
 [2022-12-04 00:33:23] 0:{"key":"py_czspp","name":"py_czspp(Pyramid)","type":3,"api":"py_czspp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://drpy.owen10086.repl.co/txt/py/py_czspp.py"},
 [2022-12-04 02:18:26] 0:{"key":"番茄资源","name":"番茄资源","type":1,"api":"http://api.fqzy.cc/api.php/provide/vod/","playUrl":"https://dp.fqplayer.com/dplayer/?url=","searchable":1,"quickSearch":1},
 [2022-12-04 02:25:18] 0:{"key":"软件","name":"🅱️软件教程②","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb3d0QlVrR3NRUExpVGVRX0J1M3J6RUtRYlJY.json"},
+[2022-12-05 14:27:17] 404:{"key":"drpy_js_唐人街影视","name":"🕵唐人街影视🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/唐人街影视.js"},
