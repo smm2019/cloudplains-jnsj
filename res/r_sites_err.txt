@@ -1031,3 +1031,4 @@
 [2022-12-05 18:19:16] 0:{"key":"海玉影视","name":"海玉影视","type":1,"api":"http://tv2.hykjtv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 [2022-12-05 18:27:25] 0:{"key":"py_zxzj","name":"py_zxzj(Pyramid)","type":3,"api":"py_zxzj","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://drpy.owen10086.repl.co/txt/py/py_zxzj.py"},
 [2022-12-05 18:28:26] 0:{"key":"py_zhaozy","name":"py_zhaozy(Pyramid)","type":3,"api":"py_zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://drpy.owen10086.repl.co/txt/py/py_zhaozy.py"},
+[2022-12-05 22:18:45] 0:{"key":"csp_appysv2_云玺TV","name":"云玺TV(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.138.193.213:8181//api.php/Miguo/vod/","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},

@@ -273,3 +273,4 @@
 [2022-12-03 22:13:47] 0:{"name":"解析02","type":1,"url":"https://www.nxflv.com/?url="},
 [2022-12-03 22:15:50] 0:{"name":"诺诺","type":1,"url":"https://www.ckmov.com/?url="},
 [2022-12-04 02:18:02] 0:{"name":"解59","type":1,"url":"https://dp.fqplayer.com/dplayer/?url="},
+[2022-12-05 22:15:40] 0:{"name":"黑米","type":1,"url":"https://www.myxin.top/jx/api/?url="},
