@@ -1075,3 +1075,4 @@
 [2022-12-06 13:06:48] 0:{"key":"py_alist","name":"py_alist(Pyramid)","type":3,"api":"py_alist","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://drpy.owen10086.repl.co/txt/py/py_alist.py"},
 [2022-12-06 13:07:49] 0:{"key":"csp_XYQBiu_短视频","name":"分享短视频(XYQ)","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/分享短视频.json"},
 [2022-12-06 13:08:49] 0:{"key":"csp_XYQBiu_凌云影视","name":"凌云影视(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/凌云影视.json"},
+[2022-12-06 16:22:15] 404:{"key":"csp_appysv2_非凡影院","name":"非凡影院(神马)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.feifan12.xyz/api.php/iptv/vod/","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
