@@ -1219,3 +1219,4 @@
 [2022-12-08 02:49:56] 404:{"key":"csp_xp_789kp","name":"ğŸ’¢789çœ‹ç‰‡ã€”XBã€•","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://maoyingshi.cc/tvbox/äº‘æ˜Ÿæ—¥è®°/sh/MaooXB/789kp.json"},
 [2022-12-08 02:49:56] 404:{"key":"csp_xp_wnvod","name":"ğŸ’¢ä¸‡èƒ½å½±è§†ã€”XBã€•","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/äº‘æ˜Ÿæ—¥è®°/sh/MaooXB/wnvod.json"},
 [2022-12-08 02:49:57] 404:{"key":"csp_xp_tjyy","name":"ğŸ’¢å¥‡ä¼˜å½±é™¢ã€”XBã€•","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/äº‘æ˜Ÿæ—¥è®°/sh/MaooXB/huigutongying.json"},
+[2022-12-08 09:12:53] 0:{"key":"飞鱼影视","name":"飞鱼影视(聚)","type":1,"api":"https://app.feiyu5.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
