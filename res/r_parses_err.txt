@@ -301,3 +301,6 @@
 [2022-12-13 16:19:36] 0:{"name":"左岸","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2284&my=efghjmxzADEFIS0268&url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
 [2022-12-16 08:58:55] 0:{"name":"ğŸ’‹Soä¸¶","type":0,"url":"https://tljiaqing.nde.tw/m3u8/?url="},
 [2022-12-16 18:16:35] 0:{"name":"风起陇西1","type":0,"url":"https://hxys.tv/bfq/?url="},
+[2022-12-18 12:15:17] 0:{"name":"m2090","url":"https://m2090.com/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
+[2022-12-18 12:16:40] 0:{"name":"解58","type":1,"url":"https://9kjx.com/?url="},
+[2022-12-18 12:17:46] 0:{"name":"解109","type":1,"url":"http://m2090.com/?url="},
