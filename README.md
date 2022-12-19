@@ -1,12 +1,4 @@
-﻿# ⏰ 自动获取合并Pluto/TvBox等数据源接口配置文件
-
-- 用 Python 实现自动合并 tvbox pluto 等配置文件数据源接口。TVBox、Pluto Player、猫影视TV等影视播放软件通用接口都可使用。Pluto兼容性最强。下载TvBox或者Pluto手机或电视盒子播放软件后，使用下面的网址作为配置文件。就能聚合几大视频平台和很多小的电影网站视频等。
-
-## ⚠️ 注意
-
 - 欢迎免费使用本订阅接口来自网络，仅作学习使用。
-- 使用页面所提供的任意资源时，请务必遵守当地法律。
-
 ## 📧 播放器接口（安装好软件后，在配置中设置接口，再返回软件主界面）
 
 - https://raw.iqiq.io/cloudplains/jnsj/main/out/tvbox.txt
@@ -43,8 +35,6 @@ https://raw.githubusercontents.com/liu673cn/box/main/m.json
 https://cdn.staticaly.com/gh/liu673cn/box/main/m.json
 
 https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
-
-https://purge.jsdelivr.net/gh/
 
 
 # 修改tvbox源代码
