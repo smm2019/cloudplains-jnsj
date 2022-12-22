@@ -306,3 +306,4 @@
 [2022-12-18 12:17:46] 0:{"name":"解109","type":1,"url":"http://m2090.com/?url="},
 [2022-12-18 16:16:03] 404:{"name":"追剧吧1","type":1,"url":"http://newjiexi.gotto.top/yun_apib.php/?url="},
 [2022-12-20 09:02:01] 0:{"name":"云解析","type":1,"url":"https://jx.ppflv.com/?url="},
+[2022-12-22 10:34:21] 404:{"name":"解析05","type":0,"url":"http://id190.tpddns.cn:81/jsonch/?url="},
