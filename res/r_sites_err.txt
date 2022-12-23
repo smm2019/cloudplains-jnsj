@@ -1263,3 +1263,4 @@
 [2022-12-22 12:20:14] 404:{"key":"mtv_xp_异次动漫","name":"切片┃异次动漫","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-异次动漫.json"},
 [2022-12-22 12:20:14] 404:{"key":"mtv_xp_去看动漫","name":"切片┃去看动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-去看动漫.json"},
 [2022-12-22 12:20:15] 404:{"key":"mtv_xp_风车动漫","name":"切片┃风车动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-风车动漫.json"},
+[2022-12-23 20:27:46] 0:{"key":"映迷","name":"映迷(优)","type":1,"api":"https://www.inmi.app/api.php/provide/vod/","searchable":1,"quickSearch":1},

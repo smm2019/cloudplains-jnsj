@@ -1,5 +1,5 @@
 "sites":[
-//Update:2022-12-23 18:23:46.782730
+//Update:2022-12-23 20:34:42.779959
 
 {"key":"Juhuang","name":"剧荒TV","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json"},
@@ -217,7 +217,6 @@
 {"key":"八戒资源","name":"八戒资源(切)","type":1,"api":"http://cj.bajiecaiji.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key":"淘片资源","name":"淘片资源(优)","type":1,"api":"https://taopianapi.com/home/cjapi/as/mc10/vod/json","searchable":1,"quickSearch":1},
 {"key":"ASMR","name":"ASMR(优)","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"映迷","name":"映迷(优)","type":1,"api":"https://www.inmi.app/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"4K狗","name":"4K狗(聚)","type":1,"api":"http://4kdog.tk/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"速影","name":"速影(聚)","type":1,"api":"https://速影128.xyz/inc/apijson.php","searchable":0,"quickSearch":0},
 {"key":"csp_xpath_独播库","name":"独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXP/duboku.json","jar":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
