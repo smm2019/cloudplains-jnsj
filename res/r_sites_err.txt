@@ -1268,3 +1268,4 @@
 [2022-12-26 14:18:50] 0:{"key":"速影","name":"速影(聚)","type":1,"api":"https://速影128.xyz/inc/apijson.php","searchable":0,"quickSearch":0},
 [2022-12-27 16:18:55] 0:{"key":"csp_xml___共青春","name":"🐝共青春影院","type":1,"api":"https://gqcyy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 [2022-12-28 02:16:26] 0:{"key":"py_bilibili","name":"哔哩PY","type":3,"api":"py_bilibili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_bilibili.py"},
+[2022-12-31 00:19:45] 0:{"key":"csp_appysv2_夕阳影视","name":"夕阳影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.seo-tv.work/mogai_api.php/v1.vod","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
