@@ -1275,3 +1275,4 @@
 [2022-12-31 02:22:48] 0:{"key":"mtv_xp_音乐演唱","name":"哔哩┃音乐演唱","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-音乐演唱.json"},
 [2022-12-31 02:23:48] 0:{"key":"mtv_xp_戏曲杂苑","name":"哔哩┃戏曲杂苑","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-戏曲杂苑.json"},
 [2022-12-31 02:24:48] 0:{"key":"mtv_xp_相声小品","name":"哔哩┃相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-相声小品.json"},
+[2022-12-31 04:17:42] 0:{"key":"mtv_xp_酷奇视频","name":"切片┃酷奇视频","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-酷奇视频.json"},
