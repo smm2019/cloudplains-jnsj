@@ -1,5 +1,5 @@
 {
-//Update:2022-12-31 06:20:23.862249
+//Update:2022-12-31 09:13:22.916267
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -346,15 +346,12 @@
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json", "jar": "http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929"},
 {"key":"mtv_pc_动漫巴士","name":"爬虫┃动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_xp_女团热舞","name":"哔哩┃女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-女团热舞.json"},
-{"key":"mtv_xp_体育赛事","name":"哔哩┃体育赛事","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-体育赛事.json"},
 {"key":"mtv_xp_棋牌娱乐","name":"哔哩┃棋牌娱乐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-棋牌娱乐.json"},
-{"key":"mtv_xp_美食天地","name":"哔哩┃美食天地","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-美食天地.json"},
 {"key":"mtv_xp_农民影视","name":"切片┃农民影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-农民影视.json"},
 {"key":"mtv_xp_饭团影院","name":"切片┃饭团影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-饭团影院.json"},
 {"key":"mtv_xp_影视工厂","name":"切片┃影视工厂","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-影视工厂.json"},
 {"key":"mtv_xp_达龟影视","name":"切片┃达龟影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-达龟影视.json"},
 {"key":"mtv_xp_乐猪影视","name":"切片┃乐猪影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-乐猪影视.json"},
-{"key":"mtv_xp_乐猪影院","name":"切片┃乐猪影院","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-乐猪影院.json"},
 {"key":"mtv_xp_在线之家","name":"切片┃在线之家","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-在线之家.json"},
 {"key":"mtv_xp_厂长影视","name":"切片┃厂长影视","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-厂长影视.json"},
 {"key":"mtv_xp_蓝光影院","name":"切片┃蓝光影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-蓝光影院.json"},
@@ -365,7 +362,6 @@
 {"key":"mtv_xp_动漫直链","name":"切片┃动漫直链","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-动漫直链.json"},
 {"key":"mtv_xp_动漫岛源","name":"切片┃动漫岛源","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-动漫岛源.json"},
 {"key":"mtv_xp_维奇动漫","name":"切片┃维奇动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-维奇动漫.json"},
-{"key":"mtv_xp_骚火电影","name":"切片┃骚火电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-骚火电影.json"},
 {"key":"mtv_xp_口袋影院","name":"切片┃口袋影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-口袋影院.json"},
 {"key":"mtv_xp_六度影视","name":"切片┃六度影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-六度影视.json"},
 {"key":"mtv_xp_乌龟影院","name":"切片┃乌龟影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-乌龟影院.json"},
