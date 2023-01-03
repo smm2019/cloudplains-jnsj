@@ -316,3 +316,5 @@
 [2022-12-30 16:16:46] 0:{"name":"播放呀","type":1,"url":"https://jx.vk95.com/xx/?url="},
 [2022-12-31 00:16:59] 0:{"name":"钢铁侠","type":1,"url":"https://json.freejx.in/?url="},
 [2023-01-02 20:22:54] 0:{"name":"293","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14(dart:io)"}}},
+[2023-01-03 09:00:17] 0:{"name":"Web4","type":0,"url":"https://dm.xmflv.com:4433/?url=","ext":{"flag":["imgo","ltnb","renrenmi","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","哔哩哔哩","哔哩"]}},
+[2023-01-03 09:01:17] 0:{"name":"多多①线","type":0,"url":"https://jx.xmflv.com/?url="},
