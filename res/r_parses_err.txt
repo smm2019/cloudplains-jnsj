@@ -325,3 +325,5 @@
 [2023-01-08 09:06:45] 0:{"name":"道长VIP","type":1,"url":"https://80k.tv/jxplayer.php?v="},
 [2023-01-11 16:17:36] 0:{"name":"必成解析","type":1,"url":"https://jisu.rongxingvr.top/api/?key=rCMmoKD0H0ShJ00u2f&url="},
 [2023-01-11 16:17:47] 0:{"name":"优众2","type":1,"url":"https://jisu.rongxingvr.top/api/?key=JGM0Kc1Sz0xCJnRMcY&url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
+[2023-01-17 14:16:36] 0:{"name":"解41","type":1,"url":"https://jx.kujiexi.net/m3u8.php?url="},
+[2023-01-17 14:16:42] 0:{"name":"解50","type":1,"url":"https://jx.ykyunbo.com/m3u8.php?url="},

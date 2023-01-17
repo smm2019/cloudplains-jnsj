@@ -1,5 +1,5 @@
 {
-//Update:2023-01-17 12:25:17.365637
+//Update:2023-01-17 14:25:18.108512
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -35,7 +35,6 @@
 {"name":"playerjy/B站","type":1,"url":"https://jx.playerjy.com/?url="},
 {"name":"52","type":1,"url":"https://vip.52jiexi.top/?url="},
 {"name":"xfyun云","type":1,"url":"https://vip.xfyun.one/home/api?type=ys&uid=2581923&key=ceijpquvBMOSUVXZ23&url=","ext":{"flag":["xfyun"]}},
-{"name":"解41","type":1,"url":"https://jx.kujiexi.net/m3u8.php?url="},
 {"name":"解42","type":1,"url":"http://jx.ykyunbo.com/m3u8.php?url="},
 {"name":"解43","type":1,"url":"https://player.aibozyplayer.com/m3u8/?url="},
 {"name":"解44","type":1,"url":"https://player.sewozyplayer.com/m3u8/?url="},
@@ -43,7 +42,6 @@
 {"name":"解47","type":1,"url":"https://api.xiusebf.com/m3u8/?url="},
 {"name":"解48","type":1,"url":"https://mgm3u8-player.com/player/DPm3u8.php?url="},
 {"name":"解49","type":1,"url":"https://player.77lehuo.com/aliplayer/?url="},
-{"name":"解50","type":1,"url":"https://jx.ykyunbo.com/m3u8.php?url="},
 {"name":"解51","type":1,"url":"http://www.ikukk.com/?url="},
 {"name":"解66","type":1,"url":"http://okjx.cc/?url="},
 {"name":"解87","type":1,"url":"https://www.ikukk.com/?url="},
