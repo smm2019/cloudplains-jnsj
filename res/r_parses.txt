@@ -3,7 +3,6 @@
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"解析第一","type":0,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 {"name":"OKjx综合","type":0,"url":"https://okjx.cc/?url="},
-{"name":"刘兵解析","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"江湖解析","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="},
 {"name":"æ±Ÿæ¹–è§£æ��","type":1,"url":"http://103.40.240.46/jh/?url=","ext":{"flag":["renrenmi","qq","è…¾è®¯","youku","ä¼˜é…·","mgtv","èŠ’æ�œ","xigua","è¥¿ç“œ"]}},
 {"name":"ç�‹ç‰Œ","type":1,"url":"https://za.kuanjv.com/?url=","ext":{"flag":["qq","è…¾è®¯","qiyi","çˆ±å¥‡è‰º","å¥‡è‰º","youku","ä¼˜é…·","mgtv","èŠ’æ�œ","æ�œç‹�","sohu","letv","ä¹�è§†","bilibili","å“”å“©å“”å“©","å“”å“©","xigua","è¥¿ç“œ"]}},

@@ -1,5 +1,5 @@
 {
-//Update:2023-01-17 16:27:04.614652
+//Update:2023-01-17 18:22:10.611444
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -262,7 +262,6 @@
 {"key":"csp_biubiu_韩剧佬","name":"🐛韩剧佬","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/XuQqu/PinkBird@main/XB/韩剧佬.json"},
 {"key":"csp_biubiu_韩剧在线","name":"🐛韩剧在线","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/XuQqu/PinkBird@main/XB/韩剧在线.json"},
 {"key":"csp_biubiu_akmeiju","name":"🐛爱看美剧","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/XuQqu/PinkBird@main/XB/akmeiju.json"},
-{"key":"csp_appysv2_gotka","name":"🐌速播影视(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mkk.gotka.top/api.php/v1.vod"},
 {"key":"csp_Blidw","name":"🐞动物世界","type":3,"api":"csp_Blidw","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AliPanSou","name":"🐞云喵搜📵","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_xpath_huyam","name":"🐻虎牙M","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/XuQqu/PinkBird@main/XP/huya.json"},
@@ -548,7 +547,6 @@
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"解析第一","type":0,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 {"name":"OKjx综合","type":0,"url":"https://okjx.cc/?url="},
-{"name":"刘兵解析","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"江湖解析","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="},
 {"name":"æ±Ÿæ¹–è§£æ��","type":1,"url":"http://103.40.240.46/jh/?url=","ext":{"flag":["renrenmi","qq","è…¾è®¯","youku","ä¼˜é…·","mgtv","èŠ’æ�œ","xigua","è¥¿ç“œ"]}},
 {"name":"ç�‹ç‰Œ","type":1,"url":"https://za.kuanjv.com/?url=","ext":{"flag":["qq","è…¾è®¯","qiyi","çˆ±å¥‡è‰º","å¥‡è‰º","youku","ä¼˜é…·","mgtv","èŠ’æ�œ","æ�œç‹�","sohu","letv","ä¹�è§†","bilibili","å“”å“©å“”å“©","å“”å“©","xigua","è¥¿ç“œ"]}},

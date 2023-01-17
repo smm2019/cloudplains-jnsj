@@ -1295,3 +1295,4 @@
 [2023-01-15 02:19:37] 0:{"key":"t4","name":"T4","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=b9fbd657a716432da68ef6ecfee68d2b&timeout=8","searchable":1,"quickSearch":1,"filterable":0},
 [2023-01-15 02:22:16] 0:{"key":"t4public","name":"💥T4","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=&douban=","searchable":1,"quickSearch":1,"filterable":1},
 [2023-01-15 02:24:24] 0:{"key":"t4public","name":"💽T4公共2","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3781469b13074e4cac1e0e7113e4fa20&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+[2023-01-17 18:16:23] 0:{"key":"csp_appysv2_gotka","name":"🐌速播影视(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mkk.gotka.top/api.php/v1.vod"},
