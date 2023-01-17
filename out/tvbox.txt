@@ -1,5 +1,5 @@
 {
-//Update:2023-01-18 02:24:07.313723
+//Update:2023-01-18 04:21:18.405792
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -572,7 +572,6 @@
 {"name":"解45","type":1,"url":"https://help.siwazywcdn2.com:5278/m3u8.php?url="},
 {"name":"解47","type":1,"url":"https://api.xiusebf.com/m3u8/?url="},
 {"name":"解48","type":1,"url":"https://mgm3u8-player.com/player/DPm3u8.php?url="},
-{"name":"解49","type":1,"url":"https://player.77lehuo.com/aliplayer/?url="},
 {"name":"解51","type":1,"url":"http://www.ikukk.com/?url="},
 {"name":"解66","type":1,"url":"http://okjx.cc/?url="},
 {"name":"解87","type":1,"url":"https://www.ikukk.com/?url="},
