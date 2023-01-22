@@ -330,3 +330,5 @@
 [2023-01-17 18:13:48] 0:{"name":"刘兵解析","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
 [2023-01-18 04:14:14] 0:{"name":"解49","type":1,"url":"https://player.77lehuo.com/aliplayer/?url="},
 [2023-01-20 01:09:21] 0:{"name":"风起兖州","type":0,"url":"http://jx.gbxy.net.cn/?url="},
+[2023-01-23 01:09:34] 0:{"name":"解43","type":1,"url":"https://player.aibozyplayer.com/m3u8/?url="},
+[2023-01-23 01:11:35] 0:{"name":"解44","type":1,"url":"https://player.sewozyplayer.com/m3u8/?url="},
