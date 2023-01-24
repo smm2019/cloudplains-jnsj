@@ -332,3 +332,4 @@
 [2023-01-20 01:09:21] 0:{"name":"风起兖州","type":0,"url":"http://jx.gbxy.net.cn/?url="},
 [2023-01-23 01:09:34] 0:{"name":"解43","type":1,"url":"https://player.aibozyplayer.com/m3u8/?url="},
 [2023-01-23 01:11:35] 0:{"name":"解44","type":1,"url":"https://player.sewozyplayer.com/m3u8/?url="},
+[2023-01-24 09:55:31] 0:{"name":"xfyun云","type":1,"url":"https://vip.xfyun.one/home/api?type=ys&uid=2581923&key=ceijpquvBMOSUVXZ23&url=","ext":{"flag":["xfyun"]}},
