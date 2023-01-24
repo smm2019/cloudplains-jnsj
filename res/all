@@ -1,5 +1,5 @@
 "sites":[
-//Update:2023-01-24 13:10:56.192062
+//Update:2023-01-24 15:28:58.773553
 
 {"key":"Juhuang","name":"剧荒TV","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json"},
@@ -202,7 +202,6 @@
 {"key":"csp_xpath_aidi","name":"爱迪影视(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/aidi.json","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_xpath_zj883","name":"追剧网(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/zj883.json","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_appysv2_小鸟动漫","name":"小鸟动漫(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xydm.baicai.buzz/mogai_api.php/v1.vod","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
-{"key":"csp_appysv2_星辰TV","name":"星辰TV(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.xingchentv.cn/mogai_api.php/v1.vod","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_appysv2_悟空影院","name":"悟空影院(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dapi.pntao.com/api.php/v1.vod","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_appysv2_天天视频","name":"天天视频(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.qianju.cc/api.php/v1.vod","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_appysv2_豆芽视频","name":"豆芽视频(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://bdintv.cn/lvdou_api.php/v1.vod","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
@@ -799,7 +798,6 @@
 {"key":"csp_xpath_94sm","name":"94神马(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXP/94sm.json","jar":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_xpath_zj883","name":"追剧网(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXP/zj883.json","jar":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_appysv2_小鸟动漫","name":"小鸟动漫(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xydm.baicai.buzz/mogai_api.php/v1.vod","jar":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
-{"key":"csp_appysv2_星辰TV","name":"星辰TV(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.xingchentv.cn/mogai_api.php/v1.vod","jar":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_appysv2_悟空影院","name":"悟空影院(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dapi.pntao.com/api.php/v1.vod","jar":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_appysv2_天天视频","name":"天天视频(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.qianju.cc/api.php/v1.vod","jar":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_appysv2_豆芽视频","name":"豆芽视频(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://bdintv.cn/lvdou_api.php/v1.vod","jar":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
