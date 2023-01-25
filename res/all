@@ -1,5 +1,5 @@
 "sites":[
-//Update:2023-01-25 21:40:48.891931
+//Update:2023-01-25 23:28:03.497681
 
 {"key":"Juhuang","name":"剧荒TV","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/\u521b\u827a\u5f71\u89c6.json"},
@@ -24,7 +24,6 @@
 {"key":"csp_biubiu_LIBVIO","name":"🌂宝盒LIBVIO","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/2644/LIBVIO.json?sign=OmzoNqIDNqOAVEeEJMD2JD5QhAdzUId-1nEBGGdQrH0%3D%3A0"},
 {"key":"快车资源","name":"快车资源","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"光速资源","name":"光速资源","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"百度资源","name":"百度资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"789盘","name":"789盘","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/from/789pan/","searchable":1,"quickSearch":1},
 {"key":"影图","name":"影图","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"飘零影院","name":"飘零影院","type":1,"api":"https://p2100.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -628,7 +627,6 @@
 {"key":"闪电资源","name":"闪电资源(切)","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"光速资源","name":"光速资源(切)","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"77韩剧","name":"77韩剧(切)","type":1,"api":"https://www.77hanju.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"百度资源","name":"百度资源(切)","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"789盘","name":"789盘(优)","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"龙腾资源","name":"龙腾资源(优)","type":1,"api":"http://175.178.7.35:2020/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"影视大全","name":"影视大全(优)","type":1,"api":"https://app.okmedcos.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -1215,7 +1213,6 @@
 {"key":"易看资源","name":"易看资源(切)","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"闪电资源","name":"闪电资源(切)","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"光速资源","name":"光速资源(切)","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"百度资源","name":"百度资源(切)","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"789盘","name":"789盘(优)","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"龙腾资源","name":"龙腾资源(优)","type":1,"api":"http://175.178.7.35:2020/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"ASMR","name":"ASMR(优)","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":0,"quickSearch":0},
