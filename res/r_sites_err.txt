@@ -1300,3 +1300,5 @@
 [2023-01-24 03:08:10] 0:{"key":"香瓜影视","name":"香瓜影视","type":1,"api":"http://v.xgvod.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 [2023-01-24 15:07:25] 404:{"key":"csp_appysv2_星辰TV","name":"星辰TV(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.xingchentv.cn/mogai_api.php/v1.vod","jar":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar"},
 [2023-01-24 20:41:47] 0:{"key":"艾旦影视","name":"艾旦影视","type":1,"api":"https://lovedan.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
+[2023-01-25 15:09:27] 0:{"key":"csp_biubiu_OmoFun动漫","name":"🍒OmoFun动漫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://share.nite07.com/api/v3/file/source/2647/OmoFun%E5%8A%A8%E6%BC%AB.json?sign=NizUSKpcup6esDOfcyAk8XgIC2QvlN26n4q5_3Ardxs%3D%3A0"},
+[2023-01-25 15:10:47] 0:{"key":"畅视影视","name":"畅视影视","type":1,"api":"http://app.reboju.net/api.php/provide/vod/","searchable":0,"quickSearch":0},
