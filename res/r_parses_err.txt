@@ -333,3 +333,4 @@
 [2023-01-23 01:09:34] 0:{"name":"解43","type":1,"url":"https://player.aibozyplayer.com/m3u8/?url="},
 [2023-01-23 01:11:35] 0:{"name":"解44","type":1,"url":"https://player.sewozyplayer.com/m3u8/?url="},
 [2023-01-24 09:55:31] 0:{"name":"xfyun云","type":1,"url":"https://vip.xfyun.one/home/api?type=ys&uid=2581923&key=ceijpquvBMOSUVXZ23&url=","ext":{"flag":["xfyun"]}},
+[2023-01-25 11:30:08] 0:{"name":"解析第一","type":0,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
