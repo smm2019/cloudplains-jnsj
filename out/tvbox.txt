@@ -1,5 +1,5 @@
 {
-//Update:2023-01-31 09:27:45.857230
+//Update:2023-01-31 11:06:31.077470
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -426,7 +426,6 @@
 {"key":"drpy_js_爱酷影视","name":"🕵爱酷影视🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/爱酷影视.js"},
 {"key":"drpy_js_我爱电影网","name":"🕵我爱电影网🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/我爱电影网.js"},
 {"key":"drpy_js_欧乐影院[飞]","name":"🕵欧乐影院[飞]🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/欧乐影院[飞].js"},
-{"key":"drpy_js_冲TMTV[飞]","name":"🕵冲TMTV[飞]🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/冲TMTV[飞].js"},
 {"key":"drpy_js_KUBO影视[飞]","name":"🕵KUBO影视[飞]🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/blob/master/js/KUBO影视[飞].js"},
 {"key":"drpy_js_if101[飞]","name":"🕵if101[飞]🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/blob/master/js/if101[飞].js"},
 {"key":"drpy_js_小宝影院[飞]","name":"🕵小宝影院[飞]🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/小宝影院[飞].js"},
