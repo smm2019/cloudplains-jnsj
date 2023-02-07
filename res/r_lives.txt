@@ -1,1 +1,1 @@
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jbG91ZHBsYWlucy5jbi90djIwMjIwOS50eHQ="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jbG91ZHBsYWlucy5jbi90djIwMjMwMy50eHQ="]}]}],
