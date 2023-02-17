@@ -1499,3 +1499,8 @@
 [2023-02-09 00:23:08] 0:{"key":"mtv_xp_女团热舞","name":"哔哩┃女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-女团热舞.json"},
 [2023-02-13 18:15:36] 404:{"key":"csp_appysv2_豆芽视频","name":"豆芽视频(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://bdintv.cn/lvdou_api.php/v1.vod"},
 [2023-02-15 12:17:48] 0:{"key":"易看资源","name":"易看资源","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+[2023-02-17 09:28:24] 0:{"key":"csp_xp_jLgyy","name":"💢蓝光影院","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/lgyy.json"},
+[2023-02-17 09:28:24] 0:{"key":"csp_xp_gongreng","name":"💢工人影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/gongreng.json"},
+[2023-02-17 09:28:24] 0:{"key":"csp_xp_Gimy","name":"💢Gimy影院","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/Gimy2.json"},
+[2023-02-17 09:28:24] 0:{"key":"csp_xp_mozhatu","name":"💢莫扎兔","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXP/mozhatu.json"},
+[2023-02-17 09:29:09] 404:{"key":"csp_xp_jLgyy","name":"蓝光影院","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/zwx/see/raw/branch/dev/qt/languang.json"},
