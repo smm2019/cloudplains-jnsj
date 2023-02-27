@@ -1,5 +1,5 @@
 "sites":[
-//Update:2023-02-27 09:25:41.650128
+//Update:2023-02-27 11:11:00.719613
 
 {"key":"Juhuang","name":"剧荒TV","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快看影视","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -112,7 +112,6 @@
 {"key":"csp_biubiu_神马tv8","name":"🐛神马tv8","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/XuQqu/PinkBird@main/XB/神马tv8.json"},
 {"key":"csp_biubiu_hdmoli","name":"🐛hdmoli","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/XuQqu/PinkBird@main/XB/hdmoli.json"},
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/XuQqu/PinkBird@main/XB/\u521b\u827a\u5f71\u89c6.json", "jar": "https://cdn.jsdelivr.net/gh/XuQqu/PinkBird@main/jar/box281.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea"},
-{"key":"csp_xml___CK资源","name":"🐝CK资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml___飞速资源2","name":"🐝飞速资源2","type":1,"api":"http://fszy1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml___无尽资源","name":"🐝无尽资源","type":1,"api":"https://api.wujinapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml___FOX采集","name":"🐝FOX采集","type":1,"api":"https://foxzy.net/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
@@ -124,7 +123,6 @@
 {"key":"热舞","name":"接口被限制即将停用，公众号：分享迷，回复：接口","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/mtv9527/mao/-/raw/master/xb/%E5%A5%B3%E5%9B%A2%E7%83%AD%E8%88%9E.json","jar":"https://gitcode.net/mtv9527/mao/-/raw/master/0902.jar;md5;D2DED0D4B8B12B325BFCD3B7D1ECD3EA"},
 {"key":"csp_BBB","name":"接口被限制即将停用，公众号：分享迷，回复：接口","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/mtv9527/mao/-/raw/master/xb/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9.json","jar":"https://gitcode.net/mtv9527/mao/-/raw/master/0902.jar;md5;D2DED0D4B8B12B325BFCD3B7D1ECD3EA"},
 {"key":"push_agent","name":"接口被限制即将停用，公众号：分享迷，回复：接口","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"csp_xml_ck","name":"🎀CK资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["伦理片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","记录片","犯罪片","奇幻片","电视剧","国产剧","欧美剧","日韩剧","港台剧"]},
 {"key":"Bili","name":"🅱️哔哩套餐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"clan://TVBox/MaooxB/bilibili.json"},
 {"key":"csp_Nbys","name":"泥巴影院","type":3,"api":"csp_Nbys","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"If101","name":"壹零壹视","type":3,"api":"csp_If101","searchable":0,"quickSearch":0,"filterable":1},

@@ -1548,3 +1548,5 @@
 [2023-02-23 12:38:05] 404:{"key":"球类","name":"体育球类","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/zwx/see/raw/branch/dev/jy/qiulei.txt"},
 [2023-02-23 12:38:06] 404:{"key":"UP主","name":"我爱测评","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/zwx/see/raw/branch/dev/jy/ceping.txt"},
 [2023-02-23 12:38:07] 404:{"key":"EXCEL","name":"表格学习","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/zwx/see/raw/branch/dev/jy/biaoge.txt"},
+[2023-02-27 10:49:36] 404:{"key":"csp_xml___CK资源","name":"🐝CK资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+[2023-02-27 10:51:24] 404:{"key":"csp_xml_ck","name":"🎀CK资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["伦理片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","记录片","犯罪片","奇幻片","电视剧","国产剧","欧美剧","日韩剧","港台剧"]},
