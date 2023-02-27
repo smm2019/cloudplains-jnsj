@@ -7,7 +7,6 @@
 {"name":"云析","url":"https://jx.yparse.com/index.php?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"BL解析","type":1,"url":"https://svip.bljiex.cc/?v="},
 {"name":"未知","type":1,"url":"http://106.52.218.221:88/?url="},
-{"name":"vip视频在线解析1","type":1,"url":"https://vip.agoni.top/?url="},
 {"name":"综合线路解析","type":1,"url":"https://laisoyiba.com/mov/s/?sv=3&url="},
 {"name":"迪奥","type":1,"url":"https://123.1dior.cn/?url="},
 {"name":"playerjy/B站","type":1,"url":"https://jx.playerjy.com/?url="},
