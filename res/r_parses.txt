@@ -18,4 +18,3 @@
 {"name":"解51","type":1,"url":"http://www.ikukk.com/?url="},
 {"name":"解66","type":1,"url":"http://okjx.cc/?url="},
 {"name":"集象","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2245&my=cdfhirsuwyEGIPU346&url="},
-{"name":"VIP1","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2233&my=eginqstBCJMNSUX689&url="},
