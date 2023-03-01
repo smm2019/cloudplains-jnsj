@@ -1,5 +1,5 @@
 {
-//Update:2023-03-01 14:46:13.612981
+//Update:2023-03-01 16:31:56.105028
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -225,7 +225,6 @@
 {"key":"drpy_js_吸瓜","name":"🎖‍吸瓜","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/吸瓜.js"},
 {"key":"drpy_js_朱古力","name":"🎖‍朱古力","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/朱古力.js"},
 {"key":"drpy_js_2099电影","name":"🎖‍2099电影","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/2099电影.js"},
-{"key":"drpy_js_7喜影院","name":"🎖7喜影院","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/7喜影院.js"},
 {"key":"drpy_js_七小时影院","name":"🎖七小时影院","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/七小时影院.js"},
 {"key":"drpy_js_利丽娅电影","name":"🎖利丽娅电影","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/利丽娅电影.js"},
 {"key":"drpy_js_大猪蹄子","name":"🎖大猪蹄子","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/大猪蹄子.js"},
