@@ -1,5 +1,5 @@
 {
-//Update:2023-03-07 02:30:00.527599
+//Update:2023-03-07 04:28:08.634435
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -239,7 +239,6 @@
 {"key":"drpy_js_金曼影视","name":"🎖金曼影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/金曼影视.js"},
 {"key":"drpy_js_霹雳影视","name":"🎖霹雳影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/霹雳影视.js"},
 {"key":"drpy_js_回响影视","name":"🎃回响影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/回响影视.js"},
-{"key":"drpy_js_有声小说吧","name":"🎥有声小说吧","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/有声小说吧.js"},
 {"key":"drpy_js_听书网","name":"🎥听书网","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/听书网.js"},
 {"key":"drpy_js_海盗听书","name":"🎥海盗听书吧","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/海盗听书.js"},
 {"key":"drpy_js_蜻蜓FM","name":"🎥蜻蜓FM","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/蜻蜓FM.js"},
