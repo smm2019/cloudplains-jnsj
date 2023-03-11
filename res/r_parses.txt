@@ -7,7 +7,6 @@
 {"name":"综合线路解析","type":1,"url":"https://laisoyiba.com/mov/s/?sv=3&url="},
 {"name":"迪奥","type":1,"url":"https://123.1dior.cn/?url="},
 {"name":"playerjy/B站","type":1,"url":"https://jx.playerjy.com/?url="},
-{"name":"52","type":1,"url":"https://vip.52jiexi.top/?url="},
 {"name":"解42","type":1,"url":"http://jx.ykyunbo.com/m3u8.php?url="},
 {"name":"解45","type":1,"url":"https://help.siwazywcdn2.com:5278/m3u8.php?url="},
 {"name":"解47","type":1,"url":"https://api.xiusebf.com/m3u8/?url="},

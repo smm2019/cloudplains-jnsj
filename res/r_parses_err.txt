@@ -350,3 +350,4 @@
 [2023-03-04 09:01:40] 0:{"name":"ltnb04","type":0,"url":"https://vip.bljiex.com/?v=","ext":{"flag":["ltnb"]}},
 [2023-03-04 09:01:43] 0:{"name":"BL解析","type":1,"url":"https://svip.bljiex.cc/?v="},
 [2023-03-10 22:12:27] 404:{"name":"æ±Ÿæ¹–è§£æ��","type":1,"url":"http://103.40.240.46/jh/?url=","ext":{"flag":["renrenmi","qq","è…¾è®¯","youku","ä¼˜é…·","mgtv","èŠ’æ�œ","xigua","è¥¿ç“œ"]}},
+[2023-03-11 18:13:12] 0:{"name":"52","type":1,"url":"https://vip.52jiexi.top/?url="},
