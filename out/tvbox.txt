@@ -1,5 +1,5 @@
 {
-//Update:2023-03-11 20:34:14.362011
+//Update:2023-03-11 22:24:51.710227
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -25,7 +25,6 @@
 {"key":"影图","name":"影图","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"麒麟资源","name":"麒麟资源(官)","type":1,"api":"http://www.qilinzyz.com/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 {"key":"极客资源","name":"极客资源","type":1,"api":"https://jkzy1.com/api.php/provide/vod/from/zkzym3u8/","searchable":1,"quickSearch":1},
-{"key":"FOX资源","name":"FOX资源","type":1,"api":"https://api.foxzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"龙腾资源","name":"龙腾资源","type":1,"api":"http://175.178.7.35:2020/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"影视大全","name":"影视大全","type":1,"api":"https://app.okmedcos.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"小鸟动漫","name":"小鸟动漫","type":1,"api":"http://xydm.baicai.buzz/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -115,9 +114,6 @@
 {"key": "csp_biubiu_\u521b\u827a\u5f71\u89c6", "name": "\u521b\u827a\u5f71\u89c6", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "ext": "https://cdn.jsdelivr.net/gh/XuQqu/PinkBird@main/XB/\u521b\u827a\u5f71\u89c6.json", "jar": "https://cdn.jsdelivr.net/gh/XuQqu/PinkBird@main/jar/box281.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea"},
 {"key":"csp_xml___飞速资源2","name":"🐝飞速资源2","type":1,"api":"http://fszy1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml___无尽资源","name":"🐝无尽资源","type":1,"api":"https://api.wujinapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml___FOX采集","name":"🐝FOX采集","type":1,"api":"https://foxzy.net/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xpath_球迷直播","name":"接口被限制即将停用，公众号：分享迷，回复：接口","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/mtv9527/mao/-/raw/master/xb/%E7%90%83%E8%BF%B7%E7%9B%B4%E6%92%AD.json"},
-{"key":"儿童","name":"接口被限制即将停用，公众号：分享迷，回复：接口","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/mtv9527/mao/-/raw/master/xb/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json","jar":"https://gitcode.net/mtv9527/mao/-/raw/master/0902.jar;md5;D2DED0D4B8B12B325BFCD3B7D1ECD3EA"},
 {"key":"学习","name":"接口被限制即将停用，公众号：分享迷，回复：接口","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/mtv9527/mao/-/raw/master/xb/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json","jar":"https://gitcode.net/mtv9527/mao/-/raw/master/0902.jar;md5;D2DED0D4B8B12B325BFCD3B7D1ECD3EA"},
 {"key":"美食","name":"接口被限制即将停用，公众号：分享迷，回复：接口","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/mtv9527/mao/-/raw/master/xb/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json","jar":"https://gitcode.net/mtv9527/mao/-/raw/master/0902.jar;md5;D2DED0D4B8B12B325BFCD3B7D1ECD3EA"},
 {"key":"音乐","name":"接口被限制即将停用，公众号：分享迷，回复：接口","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/mtv9527/mao/-/raw/master/xb/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.json","jar":"https://gitcode.net/mtv9527/mao/-/raw/master/0902.jar;md5;D2DED0D4B8B12B325BFCD3B7D1ECD3EA"},
@@ -264,7 +260,7 @@
 {"key":"晓峰影视","name":"晓峰影视(聚)","type":1,"api":"http://api.xxcr.tk/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"兔子窝","name":"兔子窝(聚)","type":1,"api":"http://cj.huimaojia.com:12345/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"csp_xpath_czspp","name":"厂长资源(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXP/czspp.json","jar":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
-{"key":"csp_xpath_lib","name":"接口被限制即将停用，公众号：分享迷，回复：接口","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/mtv9527/mao/-/raw/master/xb/lib.json","jar":"https://gitcode.net/mtv9527/mao/-/raw/master/0902.jar;md5;D2DED0D4B8B12B325BFCD3B7D1ECD3EA"},
+{"key":"csp_xpath_lib","name":"接口被限制即将停用，公众号：分享迷，回复：接口","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/mtv9527/mao/-/raw/master/xb/lib.json"},
 {"key":"csp_xpath_ddg","name":"达达龟(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXP/dadagui.json","jar":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
 {"key":"csp_XYQBiu_310直播","name":"⚽🏀310直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/l/o/raw/branch/o/o/310%E7%9B%B4%E6%92%AD.json"},
 {"key":"csp_xpath_huya","name":"🐯虎牙(XP)","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXP/huya2.json","jar":"https://github.com/YuanHsing/freed/raw/master/TVBox/MaooXB2/XBiubiuLA3.jar"},
@@ -433,6 +429,8 @@
 {"key":"学堂3","name":"👨‍🦱初中学堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/初中学堂.json"},
 {"key":"学堂4","name":"👩‍🎓高中学堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/高中学堂.json"},
 {"key":"MV","name":"🎧歌曲MV","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/歌曲MV.json"},
+{"key":"csp_xpath_球迷直播","name":"⚽🏀球迷直播","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/l/o/raw/branch/o/o/%E7%90%83%E8%BF%B7%E7%9B%B4%E6%92%AD.json"},
+{"key":"儿童","name":"🐯儿童乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/l/o/raw/branch/o/o/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"},
 {"key":"push_agent","name":"🍭推送（爱优腾/磁力/阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"daae36603bcd490681bdd8d03940783a","jar":"https://raw.iqiq.io/vpei/Free-TVUrl-Merge/main/res/push_agent.PNG"}
 ],
 
