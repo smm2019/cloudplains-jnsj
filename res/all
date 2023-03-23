@@ -1,5 +1,5 @@
 "sites":[
-//Update:2023-03-23 18:25:09.839135
+//Update:2023-03-23 20:36:30.034256
 
 {"key":"Juhuang","name":"剧荒TV","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快看影视","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -198,11 +198,8 @@
 {"key":"drpy_js_映迷影院","name":"🕵映迷影院🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/映迷影院.js"},
 {"key":"drpy_js_看看电影","name":"🕵看看电影🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/看看电影.js"},
 {"key":"drpy_js_量子影视","name":"🕵量子影视🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/量子影视.js"},
-{"key":"drpy_js_饭团","name":"🕵饭团🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/饭团.js"},
 {"key":"drpy_js_子子影视","name":"🕵子子影视🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/子子影视.js"},
-{"key":"drpy_js_趣享星趣","name":"🕵趣享星趣🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/趣享星趣.js"},
 {"key":"drpy_js_豆芽影院","name":"🕵豆芽影院🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/豆芽影院.js"},
-{"key":"drpy_js_爱酷影视","name":"🕵爱酷影视🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/爱酷影视.js"},
 {"key":"drpy_js_我爱电影网","name":"🕵我爱电影网🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/我爱电影网.js"},
 {"key":"drpy_js_欧乐影院[飞]","name":"🕵欧乐影院[飞]🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/欧乐影院[飞].js"},
 {"key":"drpy_js_KUBO影视[飞]","name":"🕵KUBO影视[飞]🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/blob/master/js/KUBO影视[飞].js"},
@@ -230,7 +227,6 @@
 {"key":"drpy_js_霹雳影视","name":"🎖霹雳影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/霹雳影视.js"},
 {"key":"drpy_js_回响影视","name":"🎃回响影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/回响影视.js"},
 {"key":"drpy_js_听书网","name":"🎥听书网","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/听书网.js"},
-{"key":"drpy_js_海盗听书","name":"🎥海盗听书吧","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/海盗听书.js"},
 {"key":"drpy_js_蜻蜓FM","name":"🎥蜻蜓FM","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/蜻蜓FM.js"},
 {"key":"drpy_js_哔哩直播","name":"🎥哔哩直播","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/哔哩直播.js"},
 {"key":"drpy_js_斗鱼直播","name":"🎥斗鱼直播","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/斗鱼直播.js"},
