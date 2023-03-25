@@ -1,5 +1,5 @@
 "sites":[
-//Update:2023-03-26 00:27:06.411565
+//Update:2023-03-26 02:26:26.101678
 
 {"key":"Juhuang","name":"剧荒TV","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快看影视","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -244,7 +244,6 @@
 {"key":"drpy_js_爱车MV","name":"🎥爱车MV","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/爱车MV.js"},
 {"key":"drpy_js_酷奇MV","name":"🎥酷奇MV","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/酷奇MV.js"},
 {"key":"筑梦云影视","name":"🌤筑梦云影视","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://wzys.scp00.cn/api.php/v1.vod"},
-{"key":"csp_appysv2_寻常影视","name":"寻常影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://tv.91ymz.cn/mogai_api.php/v1.vod"},
 {"key":"无尽资源2","name":"无尽资源2(切)","type":1,"api":"https://wuzy9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"无尽资源","name":"无尽资源(切)","type":1,"api":"https://wujinzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"晓峰影视","name":"晓峰影视(聚)","type":1,"api":"http://api.xxcr.tk/api.php/provide/vod/","searchable":0,"quickSearch":0},
