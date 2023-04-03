@@ -1,5 +1,5 @@
 {
-//Update:2023-04-03 14:27:25.012456
+//Update:2023-04-03 16:28:28.984086
 
 "spider":"http://121.36.203.35:8080/ipfs/QmaoybUpK9dEC7XJqt7hy3CWFeuxCDECPoh1iUA85K6MoR?filename=custom.PNG;md5;112dd3396623b4bebbad3ebd67fb2929",
 
@@ -435,7 +435,6 @@
 {"name":"未知","type":1,"url":"http://106.52.218.221:88/?url="},
 {"name":"综合线路解析","type":1,"url":"https://laisoyiba.com/mov/s/?sv=3&url="},
 {"name":"playerjy/B站","type":1,"url":"https://jx.playerjy.com/?url="},
-{"name":"解42","type":1,"url":"http://jx.ykyunbo.com/m3u8.php?url="},
 {"name":"解45","type":1,"url":"https://help.siwazywcdn2.com:5278/m3u8.php?url="},
 {"name":"解47","type":1,"url":"https://api.xiusebf.com/m3u8/?url="},
 {"name":"解48","type":1,"url":"https://mgm3u8-player.com/player/DPm3u8.php?url="},
