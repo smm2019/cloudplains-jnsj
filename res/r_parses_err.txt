@@ -354,3 +354,5 @@
 [2023-03-23 00:16:43] 0:{"name":"迪奥","type":1,"url":"https://123.1dior.cn/?url="},
 [2023-04-03 16:16:54] 0:{"name":"解42","type":1,"url":"http://jx.ykyunbo.com/m3u8.php?url="},
 [2023-04-04 02:14:24] 0:{"name":"解45","type":1,"url":"https://help.siwazywcdn2.com:5278/m3u8.php?url="},
+[2023-04-15 20:20:00] 0:{"name":"OKjx综合","type":0,"url":"https://okjx.cc/?url="},
+[2023-04-15 20:20:07] 0:{"name":"解66","type":1,"url":"http://okjx.cc/?url="},
