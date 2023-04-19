@@ -1604,3 +1604,4 @@
 [2023-04-05 00:27:13] 0:{"key":"csp_xp_jLgyy","name":"💎蓝光影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/l/o/raw/branch/o/o/%E8%93%9D%E5%85%89%E5%BD%B1%E9%99%A2.json"},
 [2023-04-05 00:28:14] 0:{"key":"戏曲","name":"👘戏曲合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/l/o/raw/branch/o/o/%E6%88%8F%E6%9B%B2%E5%90%88%E9%9B%86.json"},
 [2023-04-05 00:29:19] 0:{"key":"csp_xpath_球迷直播","name":"⚽🏀球迷直播","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/l/o/raw/branch/o/o/%E7%90%83%E8%BF%B7%E7%9B%B4%E6%92%AD.json"},
+[2023-04-19 12:24:27] 0:{"key":"csp_xpath_lib","name":"接口被限制即将停用，公众号：分享迷，回复：接口","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/mtv9527/mao/-/raw/master/xb/lib.json"},
