@@ -1,5 +1,5 @@
 "sites":[
-//Update:2023-04-22 10:40:49.943142
+//Update:2023-04-22 12:26:36.333018
 
 {"key":"Juhuang","name":"剧荒TV","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快看影视","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -12,7 +12,6 @@
 {"key":"mtv_pc_小苹果源","name":"小苹果源","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Aidi","name":"csp_Aidi","type":3,"api":"csp_Aidi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anfuns","name":"csp_Anfuns","type":3,"api":"csp_Anfuns","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"乐活影视","name":"乐活影视","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"闪电资源","name":"闪电资源","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"快车资源","name":"快车资源","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"光速资源","name":"光速资源","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -639,7 +638,6 @@
 {"key":"mtv_pc_奇艺视频","name":"官方┃奇艺视频","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"push_agent","name":"推送┃推送资源","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json"},
 {"key":"影图","name":"影图(聚)","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"乐活影视","name":"乐活影视(优)","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"push_agent","name":"🍭推送（阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"b9fbd657a716432da68ef6ecfee68d2b"},
 {"key":"csp_Nbys","name":"📺泥巴(SP需翻墙)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"🚬厂长资源(SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1},
@@ -819,7 +817,6 @@
 {"key":"闪电资源","name":"闪电资源(切)","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"光速资源","name":"光速资源(切)","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"龙腾资源","name":"龙腾资源(优)","type":1,"api":"http://175.178.7.35:2020/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"乐活影视","name":"乐活影视(优)","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"小鸟动漫","name":"小鸟动漫(聚)","type":1,"api":"http://xydm.baicai.buzz/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"push_agent","name":"🍭推送（爱优腾/磁力/阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"daae36603bcd490681bdd8d03940783a"},
 {"key":"push_agent","name":"🍭推送（爱优腾/磁力/阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"daae36603bcd490681bdd8d03940783a","jar":"https://raw.iqiq.io/vpei/Free-TVUrl-Merge/main/res/push_agent.PNG"},
