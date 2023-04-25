@@ -1,5 +1,5 @@
 "sites":[
-//Update:2023-04-25 20:32:57.425281
+//Update:2023-04-25 22:23:31.599421
 
 {"key":"Juhuang","name":"剧荒TV","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快看影视","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
