@@ -1,5 +1,5 @@
 "sites":[
-//Update:2023-05-02 14:27:35.462352
+//Update:2023-05-02 16:26:40.304117
 
 {"key":"Juhuang","name":"剧荒TV","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快看影视","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -404,7 +404,6 @@
 {"key":"csp_biubiu_完美看看影视","name":"🥒完美看看影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/完美看看影视.json"},
 {"key":"csp_biubiu_花猫TV","name":"🥒花猫TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/花猫TV.json"},
 {"key":"csp_xpath_qiumi","name":"球赛直播","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://cdn.staticaly.com/gh/tvba/x/main/516-qiumi.js"},
-{"key":"学堂1","name":"👶儿童学堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/儿童学堂.json"},
 {"key":"学堂2","name":"👦小学学堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/小学学堂.json"},
 {"key":"学堂3","name":"👨‍🦱初中学堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/初中学堂.json"},
 {"key":"学堂4","name":"👩‍🎓高中学堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/高中学堂.json"},
