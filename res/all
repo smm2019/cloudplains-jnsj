@@ -1,5 +1,5 @@
 "sites":[
-//Update:2023-05-09 12:24:57.706422
+//Update:2023-05-09 14:28:03.288592
 
 {"key":"Juhuang","name":"剧荒TV","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快看影视","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -222,7 +222,6 @@
 {"key":"drpy_js_金曼影视","name":"🎖金曼影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/金曼影视.js"},
 {"key":"drpy_js_霹雳影视","name":"🎖霹雳影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/霹雳影视.js"},
 {"key":"drpy_js_回响影视","name":"🎃回响影视","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcdn.top/https://raw.githubusercontent.com/yxcqr/TVboxo/main/Js/回响影视.js"},
-{"key":"drpy_js_听书网","name":"🎥听书网","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/听书网.js"},
 {"key":"drpy_js_蜻蜓FM","name":"🎥蜻蜓FM","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/蜻蜓FM.js"},
 {"key":"drpy_js_哔哩直播","name":"🎥哔哩直播","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/哔哩直播.js"},
 {"key":"drpy_js_斗鱼直播","name":"🎥斗鱼直播","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/斗鱼直播.js"},
