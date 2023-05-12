@@ -357,3 +357,4 @@
 [2023-04-15 20:20:00] 0:{"name":"OKjx综合","type":0,"url":"https://okjx.cc/?url="},
 [2023-04-15 20:20:07] 0:{"name":"解66","type":1,"url":"http://okjx.cc/?url="},
 [2023-05-09 21:00:25] 0:{"name":"集象","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2245&my=cdfhirsuwyEGIPU346&url="},
+[2023-05-13 00:14:01] 0:{"name":"解47","type":1,"url":"https://api.xiusebf.com/m3u8/?url="},
