@@ -1615,3 +1615,4 @@
 [2023-05-16 10:35:40] 0:{"key":"热舞","name":"接口被限制即将停用，公众号：分享迷，回复：接口","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/mtv9527/mao/-/raw/master/xb/%E5%A5%B3%E5%9B%A2%E7%83%AD%E8%88%9E.json"},
 [2023-05-16 10:45:08] 0:{"key":"美食","name":"🅱️美食乐欢天","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://dlj.bz/NcBi4M"},
 [2023-05-16 10:45:09] 404:{"key":"美食","name":"美食乐欢","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/zwx/see/raw/branch/dev/jy/meishi.json"},
+[2023-05-18 16:19:11] 0:{"key":"csp_BBB","name":"接口被限制即将停用，公众号：分享迷，回复：接口","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/mtv9527/mao/-/raw/master/xb/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9.json"},
