@@ -1617,3 +1617,4 @@
 [2023-05-16 10:45:09] 404:{"key":"美食","name":"美食乐欢","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/zwx/see/raw/branch/dev/jy/meishi.json"},
 [2023-05-18 16:19:11] 0:{"key":"csp_BBB","name":"接口被限制即将停用，公众号：分享迷，回复：接口","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/mtv9527/mao/-/raw/master/xb/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9.json"},
 [2023-05-30 14:16:42] 0:{"key":"csp_appysv2_天天视频","name":"天天视频(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.qianju.cc/api.php/v1.vod"},
+[2023-05-30 20:33:32] 0:{"key":"无尽资源","name":"无尽资源(切)","type":1,"api":"https://wujinzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
