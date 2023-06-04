@@ -1618,3 +1618,4 @@
 [2023-05-18 16:19:11] 0:{"key":"csp_BBB","name":"接口被限制即将停用，公众号：分享迷，回复：接口","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/mtv9527/mao/-/raw/master/xb/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9.json"},
 [2023-05-30 14:16:42] 0:{"key":"csp_appysv2_天天视频","name":"天天视频(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.qianju.cc/api.php/v1.vod"},
 [2023-05-30 20:33:32] 0:{"key":"无尽资源","name":"无尽资源(切)","type":1,"api":"https://wujinzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+[2023-06-05 00:25:20] 0:{"key":"csp_XYQBiu_310直播","name":"⚽🏀310直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/l/o/raw/branch/o/o/310%E7%9B%B4%E6%92%AD.json"},
