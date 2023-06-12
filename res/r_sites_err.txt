@@ -1627,3 +1627,4 @@
 [2023-06-08 09:16:49] 0:{"key":"热舞","name":"💃女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/l/o/raw/branch/o/o/%E5%A5%B3%E5%9B%A2%E7%83%AD%E8%88%9E.json"},
 [2023-06-08 09:16:49] 0:{"key":"csp_BBB","name":"🅱️哔哩哔哩","type":3,"api":"csp_BBB","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Bili.json"},
 [2023-06-08 09:16:54] 0:{"key":"csp_BBB","name":"🅱️哔哩哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/l/o/raw/branch/o/o/%E5%93%94%E5%93%A9%E5%A5%97%E9%A4%90.json"},
+[2023-06-12 16:15:02] 0:{"key":"极客资源","name":"极客资源","type":1,"api":"https://jkzy1.com/api.php/provide/vod/from/zkzym3u8/","searchable":1,"quickSearch":1},
