@@ -1643,3 +1643,5 @@
 [2023-06-21 09:16:07] 0:{"key":"drpy_js_欧乐影院[飞]","name":"🕵欧乐影院[飞]🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/欧乐影院[飞].js"},
 [2023-06-21 09:17:07] 0:{"key":"drpy_js_KUBO影视[飞]","name":"🕵KUBO影视[飞]🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/blob/master/js/KUBO影视[飞].js"},
 [2023-06-23 20:25:38] 0:{"key":"影图","name":"影图","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
+[2023-07-01 00:15:43] 0:{"key":"小鸟动漫","name":"小鸟动漫","type":1,"api":"http://xydm.baicai.buzz/api.php/provide/vod/","searchable":1,"quickSearch":1},
+[2023-07-01 00:15:44] 0:{"key":"csp_appysv2_小鸟动漫","name":"小鸟动漫(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xydm.baicai.buzz/mogai_api.php/v1.vod"},
