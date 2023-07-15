@@ -1646,3 +1646,5 @@
 [2023-07-01 00:15:43] 0:{"key":"小鸟动漫","name":"小鸟动漫","type":1,"api":"http://xydm.baicai.buzz/api.php/provide/vod/","searchable":1,"quickSearch":1},
 [2023-07-01 00:15:44] 0:{"key":"csp_appysv2_小鸟动漫","name":"小鸟动漫(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xydm.baicai.buzz/mogai_api.php/v1.vod"},
 [2023-07-01 22:21:11] 0:{"key":"MV","name":"🎧歌曲MV","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://download.kstore.space/download/2863/xpath/歌曲MV.json"},
+[2023-07-16 04:14:26] 0:{"key":"drpy_js_库马伊","name":"🕵库马伊🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/库马伊.js"},
+[2023-07-16 04:16:00] 0:{"key":"drpy_js_爱迪影视","name":"🕵爱迪影视🕵","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/爱迪影视.js"},
