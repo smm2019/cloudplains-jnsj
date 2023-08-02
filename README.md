@@ -1,7 +1,6 @@
 - 欢迎免费使用本订阅接口来自网络，仅作学习使用。
 ## 📧 播放器接口（安装好软件后，在配置中设置接口，再返回软件主界面）
 
-- https://ghproxy.com/https://raw.githubusercontent.com/cloudplains/jnsj/main/out/tvbox.txt
 - https://cloudplains.github.io/jnsj/out/tvbox.txt
 
 
@@ -10,29 +9,6 @@
 
 新加坡 https://raw.kgithub.com/liu673cn/box/main/m.json
 
-日本
-
-https://fastly.jsdelivr.net/gh/liu673cn/box@main/m.json
-
-https://cdn.staticaly.com/gh/liu673cn/box/main/m.json
-
-https://raw.fastgit.org/liu673cn/box/main/m.json
-
-韩国
-
-https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json
-
-https://ghproxy.net/https://raw.githubusercontent.com/liu673cn/box/main/m.json
-
-https://gcore.jsdelivr.net/gh/liu673cn/box@main/m.json
-
-https://raw.githubusercontents.com/liu673cn/box/main/m.json
-
-# Github 静态加速（样式，自己替换地址）
-
-https://cdn.staticaly.com/gh/liu673cn/box/main/m.json
-
-https://cdn.jsdelivr.net/gh/liu673cn/box@main/m.json
 
 
 # 修改tvbox源代码
