@@ -5,7 +5,7 @@
 
 # Github RAW 加速样式
 
-- https://raw.kgithub.com/jnsj/tv202303.txt
+- https://raw.kgithub.com/cloudplains/jnsj/main/tv202303.txt
 
 
 # 修改tvbox源代码
