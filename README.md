@@ -1,14 +1,11 @@
-- 欢迎免费使用本订阅接口来自网络，仅作学习使用。
-## 📧 播放器接口（安装好软件后，在配置中设置接口，再返回软件主界面）
+# 欢迎免费使用本订阅接口来自网络，仅作学习使用。
 
-- https://cloudplains.github.io/jnsj/out/tvbox.txt
-
-
-# Github RAW 加速服务（样式，自己替换地址）
+- https://cloudplains.github.io/jnsj/tv202303.txt
 
 
-新加坡 https://raw.kgithub.com/liu673cn/box/main/m.json
+# Github RAW 加速样式
 
+- https://raw.kgithub.com/jnsj/tv202303.txt
 
 
 # 修改tvbox源代码
