@@ -1,6 +1,5 @@
 ﻿
 📺综合频道,#genre# 
-
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 南城三元路立交,https://radio.sun0769.com/dgrtv1/out3.m3u8
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
@@ -9,76 +8,36 @@
 南国都市,https://justsometime.gztv.com/sec/shenghuos.m3u8
 广州影视,https://justsometime.gztv.com/sec/yingshi.m3u8
 广州综合,https://justsometime.gztv.com/sec/zhonghe.m3u8
-翡翠台,http://r.jdshipin.com/qClQf
-有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
-有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
-有线新闻,http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
-有线新闻,http://61.10.2.152:80/live_freedirect/freehd209_h.live/chunklist.m3u8
-有线新闻,http://61.10.2.134:80/live_freedirect/freehd209_h.live/chunklist.m3u8
-有线新闻,http://61.10.2.141:80/live_freedirect/freehd209_h.live/chunklist.m3u8
-有线财经资讯台,http://61.10.2.140/live_freedirect/freehd208_h.live/playlist.m3u8
-香港国际财经,http://61.10.2.140/live_freedirect/opentvhd002_h.live/playlist.m3u8
-TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-NASA Public Channel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-NASA Public Channel,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
-清华大学,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
-WORLD HD,http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-VTC13 HD 4K,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
-國家地理野生頻道,http://198.16.100.90:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
-亞洲旅遊台,http://198.16.100.90:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c
-亞洲旅遊台,http://50.7.238.114:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 4K超高清电影,http://159.75.85.63:5681/sxg.php
-东森电影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
-星卫HD电影,http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
-龙祥电影,http://50.7.238.114:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
-美亚电影,http://50.7.238.114:8278/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&ct=19249&tsum=c2c246af848b424b68e94e4b35cfa337
-HBO 2,http://208.115.225.174:14140
-HBO signature,http://208.115.225.174:14160
-HBO HD,http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
-HBO原创巨献,http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
-HBO温馨家庭,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
-IPTV高清院线,http://119.39.128.18:88/hls/34/index.m3u8
-顶级欧美电影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24923327
-上海东方影视,http://58.34.204.67:9901/tsfile/live/1016_1.m3u8
-BBC AMERICA,https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
-CBSN,http://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_7.m3u8
-新加坡CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-新加坡CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-Fox News,http://198.16.100.90:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
-Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-Sky News,http://198.16.100.90:8278/skynews_antik/playlist.m3u8?tid=MA7A8995522289955222&ct=19225&tsum=017cd1040a70d579955560a0c550c0f2
-俄罗斯RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-德国DW Deutsch,https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
-Qatar TV 2,https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
-ARTS,https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-circle,https://circle-roku.amagi.tv/playlistR432p.m3u8
-FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
-FTV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-KBC SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-KBC SBS,http://119.200.131.11:1935/KBCTV/tv/chunklist_w1292651282.m3u8
-KCTV,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
-TJB SBS,http://1.245.74.5:1935/live/tv/.m3u8
-ubc SBS,http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
-CJB SBS,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
-CJB SBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-韓國新聞,http://moneytoday1.ktcdn.co.kr:1935/mtnlive/720/playlist.m3u8
-NHK WORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-亚美尼亚Amga Not 24/7,https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
-埃及Mekameleen TV,http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8
-伊拉克Zagros,https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
-伊朗Payam Javan TV,https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/chunklist_w1355976606.m3u8
-泰国ASTV News 1,http://news1.live14.com/stream/news1_hi.m3u8
-乌克兰Сварожичи,http://80.91.177.102:1935/live/live1/playlist.m3u8
-俄罗斯GITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8?zshijd
-卢森堡-Luxe TV,https://alchimie-luxe-fr-rakuten.amagi.tv/playlist1080_p.m3u8
-卢森堡-Luxe TV,https://alchimie-luxe-fr-rakuten.amagi.tv/playlist720_p.m3u8
-俄罗斯(中文),https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
+欧美电影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24923327
+东方影视,http://58.34.204.67:9901/tsfile/live/1016_1.m3u8
 
+翡翠台,http://119.123.214.135:9000/bysid/1
+ViuTV,http://119.123.214.135:9000/bysid/99
+明珠台,http://119.123.214.135:9001/bysid/2
+J2台,http://119.123.214.135:9001/bysid/82
+無綫新聞台,http://119.123.214.135:9001/bysid/83
+無綫財經 體育 資訊台,http://119.123.214.135:9001/bysid/85
+港台電視 31,http://119.123.214.135:9002/bysid/31
+港台電視 32,http://119.123.214.135:9002/bysid/32
+中央電視台綜合頻道（CCTV-1綜合),http://119.123.214.135:9002/bysid/33
+中國環球電視網紀錄頻道 (CGTN紀錄頻道),http://119.123.214.135:9002/bysid/34
+香港國際財經台,http://119.123.214.135:9003/bysid/76
+HOY TV,http://119.123.214.135:9003/bysid/77
+HOY 資訊台,http://119.123.214.135:9003/bysid/78
+无线新闻台超清[1920x1080],http://107.167.12.58:27347/livehttpplay?channel_id=30024
+无线新闻台高清[1280x720],http://107.167.12.58:27347/livehttpplay?channel_id=20123
+翡翠台超清[1280x720],http://107.167.12.58:27347/livehttpplay?channel_id=30025
+翡翠台高清[1280x720],http://107.167.12.58:27347/livehttpplay?channel_id=20124
+J2[1920x1080],http://107.167.12.58:27347/livehttpplay?channel_id=30030
+J2超清[1280x720],http://107.167.12.58:27347/livehttpplay?channel_id=30023
+J2高清[1280x720],http://107.167.12.58:27347/livehttpplay?channel_id=20122
+明珠台超清[1280x720],http://107.167.12.58:27347/livehttpplay?channel_id=30026
+明珠台高清[1280x720],http://107.167.12.58:27347/livehttpplay?channel_id=20125
+ViuTV+[1280x720],http://107.167.12.58:27347/livehttpplay?channel_id=30032
+ViuTV高清[1280x720],http://107.167.12.58:27347/livehttpplay?channel_id=20131
+ViuTV6+[1280x720],http://107.167.12.58:27347/livehttpplay?channel_id=30033
 
 
 📡IPV6央视,#genre#
