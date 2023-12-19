@@ -1,0 +1,11 @@
+﻿{
+    "urls": [
+        {"url": "https://cloudplains.github.io/jnsj/tvbox01.json","name": "✨JNSJ"},
+        {"url": "clan://localhost/1/tvbox01.json","name": "🎁本地"},
+        {"url": "https://agit.ai/65012833/TVbox/raw/branch/master/小米.json","name":"小米"},
+        {"url": "https://cloudplains.github.io/jnsj/wacp.json","name": "✨吾爱测评"},
+        {"url": "https://cloudplains.github.io/jnsj/ajysc.json","name": "✨ajysc"}
+
+           ]
+}
+
