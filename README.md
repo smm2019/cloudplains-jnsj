@@ -2,12 +2,6 @@
 
 - https://cloudplains.github.io/jnsj/tv202303.txt
 
-
-# Github RAW 加速样式
-
-- https://raw.kgithub.com/cloudplains/jnsj/main/tv202303.txt
-
-
 # 修改tvbox源代码
 
 1、修改软件名称地址
