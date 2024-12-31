@@ -1,149 +1,26 @@
 ﻿{
     "urls": [
         {"url": "http://8.134.67.252/tvbox01.json","name": "✨JNSJ"},
-  {"url": "http://8.134.67.252/DEMO.json","name": "✨小米"},
- {"url": "http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/","name": "✨放牛娃"},
- {"url": "http://cdn.qiaoji8.com/tvbox.json","name": "✨巧技"},
- {"url": "https://raw.liucn.cc/box/m.json","name": "✨M"},
-
- {
-      "url": "http://47.99.102.252/xc.json",
-      "name": "📁星辰📁"
-    },
-    
-     
-    {
-      "url": "http://www.meowtv.vip:80/tvbox.json",
-      "name": "📁喵影📁"
-    },
-
-     {
-      "url": "http://cdn.qiaoji8.com/tvbox.json",
-      "name": "📁巧技📁"
-    },
-    { "url": "https://tv.xn--yhqu5zs87a.top", "name": "📁莱斯📁" },
-    { "url": "https://2912.kstore.space/0506.json", "name": "📁西夏📁" },
-
-    {
-      "url": "https://gitee.com/lukei7/lib/raw/Luck/%E8%87%AA%E5%BB%BA.json",
-      "name": "📁网友📁"
-    },
-    
-   
-  {
-      "url": "http://64.112.42.49:1688/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
-      "name": "📁PG📁"
-    },
-      
-
- 
-         {
-            "url": "https://秦始皇.xyz",
-            "name": "📁秦皇📁"
-        },
-  
-     {
-      "url": "http://ok321.top/ok",
-      "name": "📁OK📁"
-    },
-{
-      "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
-      "name": "📁王二📁"
-    },
- 
-
-    {
-      "url": "http://home.jundie.top:81/top98.json",
-      "name": "📁俊佬📁"
-    },
-      
-    {
-      "url": "http://www.饭太硬.com/tv",
-      "name": "📁饭硬📁"
-    },
-    {
-      "url": "https://weixine.net/ysc.json",
-      "name": "📁运输📁"
-    },
-    {
-      "url": "http://tvbox.tv666.cc/box/2.json",
-      "name": "📁云溪📁"
-    },
-    {
-      "url": "https://m.n13.club/jk.json",
-      "name": "📁猫迷📁"
-    },
-   
-    
-    {
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/0821.json",
-      "name": "📁高天📁"
-    },
-   
-
-   
-    {
-      "url": "http://肥猫.live",
-      "name": "📁肥猫📁"
-    },
- 
-    {
-      "url": "https://xn--8owq8u.com/tv/",
-      "name": "📁毒盒📁"
-    },
-    
-         {
-            "url": "http://39.101.135.137:8080/",
-           "name": "📁白龙📁"
-        },
-       
-    {
-      "url": "https://www.100km.top/0",
-      "name": "📁Leezn📁"
-    },
-    {
-      "url": "http://64.112.42.49:1688/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json",
-      "name": "📁宝盒📁"
-    },
-   
- 
-   
-    {
-      "url": "https://www.gitlink.org.cn/api/YSBXS/LMYS/raw/RH%2FTV.json?ref=main",
-      "name": "📁 小生📁"
-    },
-    {
-      "url": "http://kxrj.site:55/天天开心",
-      "name": "📁开心📁"
-    },
-   
-    {
-      "url": "https://tv.xn--11x555b.top/svip",
-      "name": "📁蜗牛📁"
-    },
-    {
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/foxccs/tvbox/main/m.json",
-      "name": "📁青木📁"
-    },
-    {
-      "url": "https://gitdl.cn/https://raw.githubusercontent.com/qgys/qgys/main/11.json",
-      "name": "📁强哥📁"
-    },
-    
-    {
-      "url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/hailin/aishangtv5/raw/tvbox%2Faishang.json?ref=master&access_token=23b93fc08ea0b7793ba24a7e0cb0041b64929cee",
-      "name": "📁春英📁"
-    },
- 
-    {
-      "url": "http://64.112.42.49:1688/https://raw.githubusercontent.com/HeChengChaXiu/tvbox/main/hccx.json",
-      "name": "📁荷城📁"
-    },
-   
-    {
-      "url": "https://龙伊.top",
-      "name": "📁时光📁"
-    }
+        {"url": "http://8.134.67.252/DEMO.json","name": "✨小米"},
+        {"url": "http://8.134.67.252/max.json","name": "✨max"},
+       {"url": "https://ghp.ci/https://raw.githubusercontent.com/guot55/YGBH/main/pro.json","name": "✨月光宝盒PRO"},
+        {"url": "http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/","name": "✨放牛娃"},
+        {"url": "https://jihulab.com/mengzhu2/ysc/-/raw/main/YSC.json","name": "✨影视仓BOX"},
+        {"url": "http://cdn.qiaoji8.com/tvbox.json","name": "✨巧技"},
+        {"url": "http://47.99.102.252/xc.json", "name": "📁星辰📁"  },
+        {"url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",  "name": "网盘线路"  },  
+        { "url": "http://ok321.top/ok","name": "OK线路"}, 
+        { "url": "http://www.饭太硬.com/tv", "name": "饭太硬线路" },                                                                                                 
+        {"url": "http://8.134.67.252/api.json","name": "潇洒线路"}, 
+        {"url": "https://100km.top/0", "name": "Ray线路"},			
+        { "url": "http://tvbox.王二小放牛娃.top", "name": "王二小线路" },
+        {"url": "http://tv.laohu.cool/tvbox.json", "name": "老虎线路" },
+        {"url": "http://8.134.67.252/m.json","name": "老刘备线路" }, 
+        {"url": "http://www.meowtv.vip:80/tvbox.json", "name": "📁喵影📁" },
+        { "url": "https://tv.xn--yhqu5zs87a.top", "name": "📁莱斯📁" },
+        {"url": "http://home.jundie.top:81/top98.json","name": "📁俊佬📁" },
+        {"url": "http://t.lkkk.love/02.json","name": "📁kkk📁" },
+        { "url": "http://o.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌", "name": "欧歌线路" }
             ]
 }
 

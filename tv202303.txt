@@ -1,40 +1,231 @@
-﻿📺IPV6频道,#genre# 
+﻿☘️IPV6频道,#genre# 
+东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
+东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
 
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+东莞新闻综合,http://120.234.5.28:6000/udp/239.21.0.137:3892
+东莞生活资讯,http://120.234.5.28:6000/udp/239.21.0.138:3896
 
+东莞新闻综合,http://php.jdshipin.com:8880/0769.php?id=xwzh
+东莞生活资讯,http://php.jdshipin.com:8880/0769.php?id=shzx
 
-CCTV1,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV2,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
-CCTV3,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-CCTV4,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8
-CCTV5,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-CCTV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8  
+东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8  
+南城三元路立交,https://radio.sun0769.com/dgrtv1/out3.m3u8
 
-CCTV-1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-CCTV-2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
-CCTV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-CCTV-5,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
-CCTV-6,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-CCTV-1,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
-CCTV-2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
-CCTV-3,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000011218/1.m3u8
-CCTV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-CCTV-6,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-
-海南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-深圳卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
-广东卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-海南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-三沙卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
-广东卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000014176/1.m3u8
-海南卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000006211/1.m3u8
-深圳卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009227/1.m3u8
+香港卫视台,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 
 
+📺黑龙江移动,#genre#
+CCTV-1,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV-2,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV-3,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV-4,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV-5,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV-5+,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV-6,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV-7,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV-8,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV-9,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV-10,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV-11,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+CCTV-12,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV-13,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+CCTV-14,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV-15,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+CCTV-16,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV-17,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+湖南卫视,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
+浙江卫视,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
+广东卫视,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+深圳卫视,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
+江苏卫视,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
+东方卫视,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+北京卫视,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
+上海纪实,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+山东卫视,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+山东教育卫视,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
+安徽卫视,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+重庆卫视,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+天津卫视,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
+湖北卫视,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
+黑龙江卫视,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+四川卫视,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+东南卫视,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+海南卫视,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+河北卫视,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+云南卫视,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
+贵州卫视,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
+陕西卫视,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
+兵团卫视,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 
+📺港澳频道,#genre#
+
+探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
+探索頻道,http://61.221.215.25:8800/hls/1/index.m3u8
+動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+
+法时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+俄·IGITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+
+凤凰中文AKtv,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+凤凰资讯AKtv,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰香港AKtv,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+
+
+韩国,#genre#
+韩国|BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+韩国|EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+韩国|EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+韩国|EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+韩国|EBS1,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+韩国|EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+韩国|EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+韩国|EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+韩国|EBSi,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+韩国|EBS+2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+韩国|EBSe,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
+韩国|KBC|SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+韩国|KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_tvbox6.com.m3u8
+韩国|KCTV 1,http://119.77.96.184:1935/chn21/chn21/chunklist_tvbox6.com.m3u8
+韩国|CJB|SBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+韩国|MBC UHD,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+韩国|MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
+韩国|NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+韩国|TjB | SBS,http://1.245.74.5:1935/live/tv/.m3u8
+韩国|KBS LIVE,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+韩国|KBS NEWS,http://8.138.7.223/tv/korea.php?id=31
+韩国|KBS DRAMA,http://8.138.7.223/tv/korea.php?id=32
+韩国|KBS JOY,http://8.138.7.223/tv/korea.php?id=33
+韩国|KBS STORY,http://8.138.7.223/tv/korea.php?id=34
+韩国|KBS LIVE,http://8.138.7.223/tv/korea.php?id=35
+韩国|KBS KIDS,http://8.138.7.223/tv/korea.php?id=36
+韩国|KBS WORLD,http://8.138.7.223/tv/korea.php?id=37
+韩国|CTS,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+韩国|Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+韩国|Job plus TV,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+韩国|DUBAI ONE,http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
+韩国|TVN,http://www.mytvsuper.us.kg/live.php?id=tvn
+韩国|TVN1,https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?
+韩国|TVN2,https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J
+韩国|TVN3,https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8?
+韩国|TVN4,http://210.210.155.35/dr9445/h/h20/index.m3u8#http://210.210.155.35:80/dr9445/h/h20/02.m3u8
+韩国|tvN5,https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?韩国|tvN Movies,https://tvlatina.live:1936/8006/8006/playlist.m3u8
+韩国|TVN Global ,http://210.210.155.37/dr9445/h/h21/index.m3u8
+韩国|TVN asia,https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
+韩国|TVNBN ,https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
+
+
+
+风景直播,#genre#
+
+白虎|杭州野生动物世界,http://temp-live.wasumedia.cn/YunShangHangZhou-66-wasu/YunShangHangZhou-66-wasu.m3u8
+大能猫|杭州野生动物世界,http://temp-live.wasumedia.cn/YunShangHangZhou-67-wasu/YunShangHangZhou-67-wasu.m3u8
+非洲部落|杭州野生动物世界,http://temp-live.wasumedia.cn/YunShangHangZhou-68-wasu/YunShangHangZhou-68-wasu.m3u8
+马来貘|杭州野生动物世界,http://temp-live.wasumedia.cn/YunShangHangZhou-69-wasu/YunShangHangZhou-69-wasu.m3u8
+水獭|杭州野生动物世界,http://temp-live.wasumedia.cn/YunShangHangZhou-70-wasu/YunShangHangZhou-70-wasu.m3u8
+细尾猿|杭州野生动物世界,http://temp-live.wasumedia.cn/YunShangHangZhou-65-wasu/YunShangHangZhou-65-wasu.m3u8
+小浣熊|杭州野生动物世界,http://temp-live.wasumedia.cn/YunShangHangZhou-71-wasu/YunShangHangZhou-71-wasu.m3u8
+小熊猫|杭州野生动物世界,http://temp-live.wasumedia.cn/YunShangHangZhou-44-wasu/YunShangHangZhou-44-wasu.m3u8
+大运河|拱宸桥,http://temp-live.wasumedia.cn/YunShangHangZhou-11-wasu/YunShangHangZhou-11-wasu.m3u8
+大运河|运河沿岸,http://temp-live.wasumedia.cn/YunShangHangZhou-4-wasu/YunShangHangZhou-4-wasu.m3u8
+飞来峰|冷泉溪,http://temp-live.wasumedia.cn/YunShangHangZhou-24-wasu/YunShangHangZhou-24-wasu.m3u8
+风雅宋韵|德寿宫,http://temp-live.wasumedia.cn/YunShangHangZhou-35-wasu/YunShangHangZhou-35-wasu.m3u8
+富春山居|安顶山云海,http://temp-live.wasumedia.cn/YunShangHangZhou-52-wasu/YunShangHangZhou-52-wasu.m3u8
+富春山居|富春江景,http://temp-live.wasumedia.cn/YunShangHangZhou-29-wasu/YunShangHangZhou-29-wasu.m3u8
+富春山居|鹳山,http://temp-live.wasumedia.cn/YunShangHangZhou-54-wasu/YunShangHangZhou-54-wasu.m3u8
+富春山居|龙鳞坝,http://temp-live.wasumedia.cn/YunShangHangZhou-23-wasu/YunShangHangZhou-23-wasu.m3u8
+富春山居|淇美公园,http://temp-live.wasumedia.cn/YunShangHangZhou-79-wasu/YunShangHangZhou-79-wasu.m3u8
+富春山居|桐洲岛,http://temp-live.wasumedia.cn/YunShangHangZhou-76-wasu/YunShangHangZhou-76-wasu.m3u8
+富春山居|小叠空,http://temp-live.wasumedia.cn/YunShangHangZhou-56-wasu/YunShangHangZhou-56-wasu.m3u8
+富春山居|小叠空滑翔伞基地,http://temp-live.wasumedia.cn/YunShangHangZhou-55-wasu/YunShangHangZhou-55-wasu.m3u8
+嘉兴平湖|平湖东湖,http://temp-live.wasumedia.cn/YunShangHangZhou-89-wasu/YunShangHangZhou-89-wasu.m3u8
+嘉兴平湖|平湖明湖,http://temp-live.wasumedia.cn/YunShangHangZhou-90-wasu/YunShangHangZhou-90-wasu.m3u8
+良渚遗址公园|良渚古城全景,http://temp-live.wasumedia.cn/YunShangHangZhou-22-wasu/YunShangHangZhou-22-wasu.m3u8
+良渚遗址公园|良渚鹿苑,http://temp-live.wasumedia.cn/YunShangHangZhou-25-wasu/YunShangHangZhou-25-wasu.m3u8
+临安山水|剑门峡,http://temp-live.wasumedia.cn/YunShangHangZhou-45-wasu/YunShangHangZhou-45-wasu.m3u8
+灵山景区|灵山景区,http://temp-live.wasumedia.cn/YunShangHangZhou-78-wasu/YunShangHangZhou-78-wasu.m3u8
+千岛湖|沪马探险乐园,http://temp-live.wasumedia.cn/YunShangHangZhou-38-wasu/YunShangHangZhou-38-wasu.m3u8
+千岛湖|黄山尖岛,http://temp-live.wasumedia.cn/YunShangHangZhou-41-wasu/YunShangHangZhou-41-wasu.m3u8
+千岛湖|魁星楼,http://temp-live.wasumedia.cn/YunShangHangZhou-40-wasu/YunShangHangZhou-40-wasu.m3u8
+千岛湖|梅峰岛,http://temp-live.wasumedia.cn/YunShangHangZhou-39-wasu/YunShangHangZhou-39-wasu.m3u8
+千岛湖|石林景区,http://temp-live.wasumedia.cn/YunShangHangZhou-37-wasu/YunShangHangZhou-37-wasu.m3u8
+千岛湖|下姜村,http://temp-live.wasumedia.cn/YunShangHangZhou-42-wasu/YunShangHangZhou-42-wasu.m3u8
+钱塘江|复兴大桥,http://temp-live.wasumedia.cn/YunShangHangZhou-13-wasu/YunShangHangZhou-13-wasu.m3u8
+钱塘江|钱塘江大桥,http://temp-live.wasumedia.cn/YunShangHangZhou-2-wasu/YunShangHangZhou-2-wasu.m3u8
+钱塘江|西兴大桥,http://temp-live.wasumedia.cn/YunShangHangZhou-12-wasu/YunShangHangZhou-12-wasu.m3u8
+钱塘江景|城市之印,http://temp-live.wasumedia.cn/YunShangHangZhou-14-wasu/YunShangHangZhou-14-wasu.m3u8
+钱塘江景|日月星辰,http://temp-live.wasumedia.cn/YunShangHangZhou-15-wasu/YunShangHangZhou-15-wasu.m3u8
+钱塘江景|日月星辰2,http://temp-live.wasumedia.cn/YunShangHangZhou-32-wasu/YunShangHangZhou-32-wasu.m3u8
+钱塘江景|樱花大道,http://temp-live.wasumedia.cn/YunShangHangZhou-33-wasu/YunShangHangZhou-33-wasu.m3u8
+钱塘江景|之江两岸,http://temp-live.wasumedia.cn/YunShangHangZhou-7-wasu/YunShangHangZhou-7-wasu.m3u8
+三江汇|三江口,http://temp-live.wasumedia.cn/YunShangHangZhou-17-wasu/YunShangHangZhou-17-wasu.m3u8
+
+西湖|西湖全景,http://temp-live.wasumedia.cn/YunShangHangZhou-43-wasu/YunShangHangZhou-43-wasu.m3u8
+西溪湿地|东关荷塘,http://temp-live.wasumedia.cn/YunShangHangZhou-36-wasu/YunShangHangZhou-36-wasu.m3u8
+西溪湿地|莲滩鹭影,http://temp-live.wasumedia.cn/YunShangHangZhou-1-wasu/YunShangHangZhou-1-wasu.m3u8
+西溪湿地|青树翠蔓,http://temp-live.wasumedia.cn/YunShangHangZhou-8-wasu/YunShangHangZhou-8-wasu.m3u8
+西溪湿地|秋雪庵,http://temp-live.wasumedia.cn/YunShangHangZhou-16-wasu/YunShangHangZhou-16-wasu.m3u8
+西溪湿地|深潭口,http://temp-live.wasumedia.cn/YunShangHangZhou-6-wasu/YunShangHangZhou-6-wasu.m3u8
+西溪湿地|西溪观鸟,http://temp-live.wasumedia.cn/YunShangHangZhou-9-wasu/YunShangHangZhou-9-wasu.m3u8
+湘湖风光|湖桥拾梦,http://temp-live.wasumedia.cn/YunShangHangZhou-27-wasu/YunShangHangZhou-27-wasu.m3u8
+湘湖风光|湖心云影,http://temp-live.wasumedia.cn/YunShangHangZhou-26-wasu/YunShangHangZhou-26-wasu.m3u8
+秀美桐庐|桐君山,http://temp-live.wasumedia.cn/YunShangHangZhou-50-wasu/YunShangHangZhou-50-wasu.m3u8
+秀美桐庐|桐庐城区,http://temp-live.wasumedia.cn/YunShangHangZhou-49-wasu/YunShangHangZhou-49-wasu.m3u8
+秀美桐庐|桐庐未来科技城,http://temp-live.wasumedia.cn/YunShangHangZhou-60-wasu/YunShangHangZhou-60-wasu.m3u8
+秀美桐庐|一江两岸,http://temp-live.wasumedia.cn/YunShangHangZhou-51-wasu/YunShangHangZhou-51-wasu.m3u8
+亚运之光|大莲花,http://temp-live.wasumedia.cn/YunShangHangZhou-18-wasu/YunShangHangZhou-18-wasu.m3u8
+亚运之光|亚运三馆,http://temp-live.wasumedia.cn/YunShangHangZhou-34-wasu/YunShangHangZhou-34-wasu.m3u8
+亚运之光|亚运之光,http://temp-live.wasumedia.cn/YunShangHangZhou-28-wasu/YunShangHangZhou-28-wasu.m3u8
+云上建德|建德江景,http://temp-live.wasumedia.cn/YunShangHangZhou-48-wasu/YunShangHangZhou-48-wasu.m3u8
+云上建德|梅城古街,http://temp-live.wasumedia.cn/YunShangHangZhou-47-wasu/YunShangHangZhou-47-wasu.m3u8
+云上建德|南峰塔,http://temp-live.wasumedia.cn/YunShangHangZhou-63-wasu/YunShangHangZhou-63-wasu.m3u8
+云上建德|七里扬帆,http://temp-live.wasumedia.cn/YunShangHangZhou-46-wasu/YunShangHangZhou-46-wasu.m3u8
+云上建德|乾潭码头,http://temp-live.wasumedia.cn/YunShangHangZhou-73-wasu/YunShangHangZhou-73-wasu.m3u8
+云上建德|新安江大坝,http://temp-live.wasumedia.cn/YunShangHangZhou-64-wasu/YunShangHangZhou-64-wasu.m3u8
+云上建德|新叶古村,http://temp-live.wasumedia.cn/YunShangHangZhou-62-wasu/YunShangHangZhou-62-wasu.m3u8
+云上建德|胥岭梯田,http://temp-live.wasumedia.cn/YunShangHangZhou-72-wasu/YunShangHangZhou-72-wasu.m3u8
+云上建德|悬空寺,http://temp-live.wasumedia.cn/YunShangHangZhou-61-wasu/YunShangHangZhou-61-wasu.m3u8
+云上丽水|船帮石浦,http://temp-live.wasumedia.cn/YunShangHangZhou-53-wasu/YunShangHangZhou-53-wasu.m3u8
+云上丽水|厦河塔,http://temp-live.wasumedia.cn/YunShangHangZhou-88-wasu/YunShangHangZhou-88-wasu.m3u8
+云上丽水|云和三江口,http://temp-live.wasumedia.cn/YunShangHangZhou-83-wasu/YunShangHangZhou-83-wasu.m3u8
+云上丽水|云和梯田,http://temp-live.wasumedia.cn/YunShangHangZhou-84-wasu/YunShangHangZhou-84-wasu.m3u8
+云上丽水|云和长汀沙滩,http://temp-live.wasumedia.cn/YunShangHangZhou-80-wasu/YunShangHangZhou-80-wasu.m3u8
+云上农场|翁山茶园,http://temp-live.wasumedia.cn/YunShangHangZhou-31-wasu/YunShangHangZhou-31-wasu.m3u8
+云上舟山|观音圣坛,http://temp-live.wasumedia.cn/YunShangHangZhou-87-wasu/YunShangHangZhou-87-wasu.m3u8
+云上舟山|沈家门渔港,http://temp-live.wasumedia.cn/YunShangHangZhou-85-wasu/YunShangHangZhou-85-wasu.m3u8
+云上舟山|塔湾金沙,http://temp-live.wasumedia.cn/YunShangHangZhou-81-wasu/YunShangHangZhou-81-wasu.m3u8
+云上舟山|乌石塘,http://temp-live.wasumedia.cn/YunShangHangZhou-82-wasu/YunShangHangZhou-82-wasu.m3u8
+云上舟山|朱家尖大桥,http://temp-live.wasumedia.cn/YunShangHangZhou-86-wasu/YunShangHangZhou-86-wasu.m3u8
+
+福田红树林,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
+林芝南迦巴瓦,https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8
+四川峨眉山云海日出,https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
+哈尔滨霁虹桥,https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8
+辽宁浑河桥,https://gcalic.v.myalicdn.com/gc/ljgcdsc_1/index.m3u8
+吉林临江门大桥,https://gcalic.v.myalicdn.com/gc/zh03_1/index.m3u8
+宿迁骆马湖罗曼园,https://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8
+陕西渭南大荔县南湖景区,https://gcalic.v.myalicdn.com/gc/zjjmht_1/index.m3u8
+大雁塔,https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
+天山天池,https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
+西安钟楼,https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
+福建南平武夷山,https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
+四川成都安顺廊桥,https://gcalic.v.myalicdn.com/gc/zsslsjjfsd_1/index.m3u8
+广东韶关车八岭,https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8
+云南保山青龙街,https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8
+新疆马牙山,https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
+舟山东极岛远眺东海,https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
+巫山长江画卷,https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8
+乌镇,https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8
+月牙泉,https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
+湖南八角寨,https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8
+承德金山岭长城,https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
+云南红河月亮小镇,https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8
+黄山飞来石,https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8
+安徽黟县西递牌坊,https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
+吉林朱雀云顶远眺,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
+半山亭,https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
+密云古北水镇,https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8
+贵州梯田,https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
+云南咖啡产业园,https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
 
